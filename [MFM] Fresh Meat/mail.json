@@ -1,7 +1,8 @@
 [
 	{
 		"Id": "ppja.grilledskewerrecipe",
-		"Text": "@,^^ Here's a recipe from my saloon. I only share this with my good friends!^^ -Gus",
+		"GroupID": "FreshMeat.CookingRecipe",
+		"Text": "grilledskewer.text",
 		"Recipe": "Grilled Skewer",
 		"WhichBG": 0,
 		"Date": "1 spring Y2",

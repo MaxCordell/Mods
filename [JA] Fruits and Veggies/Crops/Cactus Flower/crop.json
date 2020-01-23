@@ -27,8 +27,8 @@
     "SeedNameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "선인장 꽃 씨앗",
+        "de": "Kaktusblüten-Saat",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -41,8 +41,8 @@
     "SeedDescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "봄 또는 여름 또는 가을 작물. 성장하려면 24일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다.",
+        "de": "Pflanze sie im Frühling, Sommer oder Herbst. Wächst in 24 Tagen heran und kann danach mehrmals geerntet werden.",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -50,6 +50,6 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "在春天、夏天或秋天种植。需要24天才能成熟，并在第一次收获后继续生产",
+          "zh": "在春天、夏天或秋天播种。24天成熟，在第一次收获后循环生产。",
     }
 }

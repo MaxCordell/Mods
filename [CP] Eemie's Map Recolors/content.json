@@ -172,13 +172,24 @@
 
 		//All seasons grave tiles
 		{
-		"LogName": "Summer Grave Tiles",
+		"LogName": "Spring & Summer Grave Tiles",
 		"Action": "EditImage",
 		"PatchMode": "Replace",
 		"Target": "{{season}}_monsterGraveTiles, Maps/{{season}}_monsterGraveTiles",
 		"FromFile": "assets/{{season}}_monsterGraveTiles.png",
 		"When": {
-			"season": "spring, summer, fall"
+			"season": "spring, summer"
+			}
+		},
+
+		{
+		"LogName": "Fall Grave Tiles",
+		"Action": "EditImage",
+		"PatchMode": "Overlay",
+		"Target": "{{season}}_monsterGraveTiles, Maps/{{season}}_monsterGraveTiles",
+		"FromFile": "assets/{{season}}_monsterGraveTiles_{{FallColor}}.png",
+		"When": {
+			"season": "fall"
 			}
 		},
 

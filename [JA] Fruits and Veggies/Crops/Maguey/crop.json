@@ -26,8 +26,8 @@
     "SeedNameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "용설란 씨앗",
+        "de": "Agaven-Saat",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -35,13 +35,13 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "马圭种子",
+          "zh": "龙舌兰种子",
     },
     "SeedDescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "봄 또는 여름 작물. 성장하려면 8일이 소요됩니다.",
+        "de": "Pflanze sie im Frühling oder Sommer. Wächst in 8 Tagen heran.",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -49,6 +49,6 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "在春天或夏天种植。需要8天才能成熟",
+          "zh": "在春天或夏天播种。8天成熟。",
     }
 }

@@ -34,12 +34,12 @@
     "NameLocalization":
     {
         "es": "Café negro",
-         // "ko": "",
-         // "de": "",
+        "ko": "블랙 커피",
+        "de": "Schwarzer Kaffee",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ブラックコーヒー",
         "pt": "Café preto",
          // "ru": "",
          // "tr": "",
@@ -48,12 +48,12 @@
     "DescriptionLocalization":
     {
         "es": "Es extremadamente amargo.",
-         // "ko": "",
-         // "de": "",
+        "ko": "엄청 써요.",
+        "de": "Er ist verdammt bitter.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "とてもにがい。",
         "pt": "É extremamente amargo.",
          // "ru": "",
          // "tr": "",

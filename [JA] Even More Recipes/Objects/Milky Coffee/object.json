@@ -21,12 +21,12 @@
     "NameLocalization":
     {
         "es": "Café con leche",
-         // "ko": "",
-         // "de": "",
+        "ko": "밀크 커피",
+        "de": "Milchiger Kaffee",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ミルクコーヒー缶",
         "pt": "Café com leite",
          // "ru": "",
          // "tr": "",
@@ -35,12 +35,12 @@
     "DescriptionLocalization":
     {
         "es": "¡Café con leche enlatado!",
-         // "ko": "",
-         // "de": "",
+        "ko": "우유가 첨가된 캔 커피!",
+        "de": "Kaffee mit Milch aus der Dose!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "缶入りのミルク入りコーヒー！",
         "pt": "Café com leite adicionado a ele, dentro de uma lata!",
          // "ru": "",
          // "tr": "",

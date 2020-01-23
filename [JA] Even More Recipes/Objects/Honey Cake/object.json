@@ -43,12 +43,12 @@
     "NameLocalization":
     {
         "es": "Pastel de miel",
-         // "ko": "",
-         // "de": "",
+        "ko": "허니 케이크",
+        "de": "Honigkuchen",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ハニーケーキ",
         "pt": "Bolo de mel",
          // "ru": "",
          // "tr": "",
@@ -57,12 +57,12 @@
     "DescriptionLocalization":
     {
         "es": "¡Un dulce pegajoso!",
-         // "ko": "",
-         // "de": "",
+        "ko": "끈적끈적한 달콤함!",
+        "de": "Eine klebrige Süßigkeit!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "とろーり甘い！",
         "pt": "Um doce pegajoso!",
          // "ru": "",
          // "tr": "",

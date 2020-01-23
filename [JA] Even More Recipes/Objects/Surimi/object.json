@@ -27,29 +27,29 @@
     "NameLocalization":
     {
         "es": "Surimi",
-         // "ko": "",
-         // "de": "",
+        "ko": "수리미",
+        "de": "Surimi",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "かにかま",
         "pt": "Surimi",
          // "ru": "",
          // "tr": "",
-        "zh": "蟹棒",
+        "zh": "蟹味棒",
     },
     "DescriptionLocalization":
     {
         "es": "Pescado en pasta.",
-         // "ko": "",
-         // "de": "",
+        "ko": "페이스트로 만든 다진 생선.",
+        "de": "Gehackter Fisch, der zu einer Paste verarbeitet wurde.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ペースト状に加工された魚のすり身。",
         "pt": "Um peixe picado que foi transformado em pasta.",
          // "ru": "",
          // "tr": "",
-        "zh": "蟹棒。已加工成糊状的鱼肉糜。",
+        "zh": "蟹味棒。已加工成糊状的鱼肉糜。",
     }
 }

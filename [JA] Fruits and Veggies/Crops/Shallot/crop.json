@@ -26,8 +26,8 @@
     "SeedNameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "샬롯 씨앗",
+        "de": "Schalotten-Saat",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -35,13 +35,13 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "小葱种子",
+          "zh": "火葱种子",
     },
     "SeedDescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "봄 작물. 성장하려면 8일이 소요됩니다.",
+        "de": "Pflanze sie im Frühling. Wächst in 8 Tagen heran.",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -49,6 +49,6 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "春天种这些。需要8天才能成熟",
+          "zh": "春天播种，8天成熟。",
     }
 }

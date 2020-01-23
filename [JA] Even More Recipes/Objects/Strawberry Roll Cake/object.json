@@ -42,12 +42,12 @@
     "NameLocalization":
     {
         "es": "Pastel de rollo de fresas",
-         // "ko": "",
-         // "de": "",
+        "ko": "딸기 롤 케이크",
+        "de": "Erdbeerkuchenrolle",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "イチゴのロールケーキ",
         "pt": "Rocambole de morango",
          // "ru": "",
          // "tr": "",
@@ -56,12 +56,12 @@
     "DescriptionLocalization":
     {
         "es": "Delicioso sabor a fresa!",
-         // "ko": "",
-         // "de": "",
+        "ko": "맛있는 딸기 맛!",
+        "de": "Göttliche Erdbeerleckerei.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "イチゴのおいしさが引き出されてる！",
          // "pt": "",
          // "ru": "",
          // "tr": "",

@@ -2,7 +2,7 @@
     "Name": "Kidney Bean",
     "Product": "Kidney Bean",
     "SeedName": "Kidney Bean Starter",
-    "SeedDescription": "Plant these in summer. Takes 10 days to mature, and continues to produce after the first harvest. Grows on a trellis.",
+    "SeedDescription": "Plant these in fall. Takes 10 days to mature, and continues to produce after the first harvest. Grows on a trellis.",
     "Type": "Vegetable",
 
     "Seasons": ["fall"],
@@ -26,8 +26,8 @@
     "SeedNameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "강낭콩 종자",
+        "de": "Kidneybohnen-Starterset",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -40,8 +40,8 @@
     "SeedDescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "여름 작물. 성장하려먼 10일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다. 격자 구조물에 감겨 자랍니다.",
+        "de": "Pflanze sie im Sommer. Wächst in 10 Tagen heran und kann danach mehrmals geerntet werden. Wächst an einem Rankgerüst.",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -49,6 +49,6 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "夏天种这些。成熟需要10天，在第一次收获后继续生产。在格子架上生长",
+          "zh": "夏天播种，10天成熟，在第一次收获后循环生产。生长在架子上。",
     }
 }

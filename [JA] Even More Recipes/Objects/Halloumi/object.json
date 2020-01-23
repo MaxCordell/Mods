@@ -1,6 +1,6 @@
 {
     "Name": "Halloumi",
-    "Description": "The Cypriotic classic mix of cows milk and goat milk",
+    "Description": "The Cypriotic classic mix of cows milk and goat milk.",
     "Category": "Cooking",
     "Edibility": 164,
     "EdibleIsDrink": false,
@@ -37,29 +37,29 @@
     "NameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "할루미",
+        "de": "Halloumi.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ハルーミ",
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "哈罗米芝士",
+          "zh": "哈罗米",
     },
     "DescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "우유와 염소젖을 섞어 만든 키프로스의 치즈.",
+        "de": "Der zypriotische Käseklassiker aus Kuhmilch und Ziegenmilch.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ミルクとヤギミルクを混ぜた、キプロスの伝統料理。",
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "牛乳和山羊奶的经典混合",
+          "zh": "哈罗米。用牛奶和羊奶混合制作的塞浦路斯经典奶酪。",
     }
 }

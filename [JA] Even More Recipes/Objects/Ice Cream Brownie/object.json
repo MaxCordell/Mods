@@ -36,12 +36,12 @@
     "NameLocalization":
     {
         "es": "Helado de brownie",
-         // "ko": "",
-         // "de": "",
+        "ko": "아이스크림 브라우니",
+        "de": "Brownie mit Eis",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "アイスクリームブラウニー",
         "pt": "Brownie de sorvete",
          // "ru": "",
          // "tr": "",
@@ -50,12 +50,12 @@
     "DescriptionLocalization":
     {
         "es": "¡Un delicioso y cálido capricho!",
-         // "ko": "",
-         // "de": "",
+        "ko": "맛있고 따뜻한 간식!",
+        "de": "Ein leckeres, warmes Vergnügen!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "おいしいおやつ！",
         "pt": "Um deleite gostoso e quente!",
          // "ru": "",
          // "tr": "",

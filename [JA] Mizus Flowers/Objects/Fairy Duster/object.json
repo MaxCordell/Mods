@@ -14,12 +14,12 @@
     "NameLocalization":
     {
         "es": "Calliandra",
-        "ko": "페어리 더스터",
-        "de": "Feen Wedel",
-         // "fr": "",
+        "ko": "칼리안드라 에마르기나타",
+        "de": "Puderquastenstrauch",
+        "fr": "Calliandre",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "フェアリーダスター",
         "pt": "Espanador de fadas",
          // "ru": "",
          // "tr": "",
@@ -28,12 +28,12 @@
     "DescriptionLocalization":
     {
         "es": "Se dice que parece la falda de un hada. Una planta de lejanas llanuras áridas.",
-        "ko": "요정의 치마처럼 생겼다고 한다. 먼 곳의 건조한 평야에서 온 식물.",
-        "de": "Wächst sonst nur in trockenen Gebieten.",
-         // "fr": "",
+        "ko": "요정의 치마처럼 생겼습니다. 황폐한 평야에서 자랍니다.",
+        "de": "Man sagt, sie sähe wie ein Feenrock aus. Eine Pflanze aus der trockenen Ebene.",
+        "fr": "On dit que cela ressemble à une jupe de fée. Une plante des plaines arides lointaines.",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "妖精のスカートのように見えるといわれている。遠方の乾燥した平原から来た植物。",
         "pt": "Dizem que parece uma saia de fada. Uma planta de longe, provavelmente das planícies áridas.",
          // "ru": "",
          // "tr": "",

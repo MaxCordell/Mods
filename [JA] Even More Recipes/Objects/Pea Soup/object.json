@@ -37,29 +37,29 @@
     "NameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "콩 수프",
+        "de": "Erbsensuppe",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "グリーンピーススープ",
          // "pt": "",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+        "zh": "豌豆汤",
     },
     "DescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "주식으로 먹습니다.",
+        "de": "Ein einfaches Grundnahrungsmittel.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "主食のひとつ。",
          // "pt": "",
          // "ru": "",
          // "tr": "",
-         // "zh": "",
+        "zh": "豌豆汤。一份主食。",
     }
 }

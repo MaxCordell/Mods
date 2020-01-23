@@ -26,8 +26,8 @@
     "SeedNameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "표고버섯 종자",
+        "de": "Shiitake-Pilze-Starterset",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -40,8 +40,8 @@
     "SeedDescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "봄 또는 가을 작물. 성장하려면 10일이 소요됩니다.",
+        "de": "Pflanze sie im Frühling oder Herbst. Wächst in 10 Tagen heran.",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -49,6 +49,6 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "在春天或秋天种植这些植物。需要10天才能成熟",
+          "zh": "春天或秋天播种，10天成熟。",
     }
 }

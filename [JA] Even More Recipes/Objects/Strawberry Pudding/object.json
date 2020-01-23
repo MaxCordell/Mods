@@ -29,12 +29,12 @@
     "NameLocalization":
     {
         "es": "Pudin de fresa",
-         // "ko": "",
-         // "de": "",
+        "ko": "딸기 푸딩",
+        "de": "Erdbeerpudding",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "イチゴのプリン",
         "pt": "Pudim de morango",
          // "ru": "",
          // "tr": "",
@@ -43,15 +43,15 @@
     "DescriptionLocalization":
     {
         "es": "Jiggle jiggle",
-         // "ko": "",
-         // "de": "",
+        "ko": "흔들흔들.",
+        "de": "Wackel, wackel.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ジグルジグル",
         "pt": "Mexe, mexe!",
          // "ru": "",
          // "tr": "",
-        "zh": "草莓布丁。抖动 抖动。",
+        "zh": "草莓布丁（抖动，抖动）。",
     }
 }

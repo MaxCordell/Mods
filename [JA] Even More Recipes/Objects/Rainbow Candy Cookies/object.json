@@ -44,12 +44,12 @@
     "NameLocalization":
     {
         "es": "Galletas arco iris",
-         // "ko": "",
-         // "de": "",
+        "ko": "무지개 사탕 쿠키",
+        "de": "Regenbogenplätzchen",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "レンボーキャンディクッキー",
         "pt": "Biscoitos doces de arco-íris",
          // "ru": "",
          // "tr": "",
@@ -58,15 +58,15 @@
     "DescriptionLocalization":
     {
         "es": "Estas galletas tienen piezas coloridas en ellas!",
-         // "ko": "",
-         // "de": "",
+        "ko": "알록달록한 조각들이 박혀 있어요!",
+        "de": "Diese Plätzchen sind voll mit bunten Stückchen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "カラフルな粒を混ぜたクッキー",
         "pt": "Esses biscoitos têm pedaços coloridoas!",
          // "ru": "",
          // "tr": "",
-        "zh": "彩虹糖饼干。这些饼干里面有很多色彩斑斓的东西！",
+        "zh": "彩虹糖饼干。这些饼干里面有很多五颜六色的东西！",
     }
 }

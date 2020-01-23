@@ -43,29 +43,29 @@
     "NameLocalization":
     {
         "es": "Dona de fresa simple",
-         // "ko": "",
-         // "de": "",
+        "ko": "평범한 딸기 도넛",
+        "de": "Ein einfacher Erdbeerdonut",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "プレーンストロベリードーナツ",
         "pt": "Donut de morango simples",
          // "ru": "",
          // "tr": "",
-        "zh": "平底草莓甜甜圈",
+        "zh": "纯草莓甜甜圈",
     },
     "DescriptionLocalization":
     {
         "es": "Una simple dona de fresa.",
-         // "ko": "",
-         // "de": "",
+        "ko": "평범한 모양의 딸기 도넛.",
+        "de": "Ein stinknormaler Erdbeerdonut.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "普通のストロベリードーナツ。",
         "pt": "Um donut de morango simples.",
          // "ru": "",
          // "tr": "",
-        "zh": "平底草莓甜甜圈。一个平底草莓甜甜圈。",
+        "zh": "纯草莓甜甜圈。一个主要成分为草莓的甜甜圈。",
     }
 }

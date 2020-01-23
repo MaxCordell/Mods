@@ -14,8 +14,8 @@
     "NameLocalization":
     {
         "es": "Frijoles blancos",
-        "ko": "강낭콩",
-        "de": "weiße Bohnen",
+        "ko": "흰 강낭콩",
+        "de": "Weiße Bohnen",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -28,8 +28,8 @@
     "DescriptionLocalization":
     {
         "es": "Un puñado de frijoles.",
-        "ko": "조리하면 고소하면서 부드러운 맛이 납니다.",
-        "de": "Eine Hand voll Bohnen.",
+        "ko": "흰 강낭콩 한 줌.",
+        "de": "Eine Handvoll Bohnen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -37,6 +37,6 @@
         "pt": "Um punhado de feijões.",
          // "ru": "",
          // "tr": "",
-        "zh": "少量的豆子。",
+        "zh": "一把菜豆。",
     }
 }

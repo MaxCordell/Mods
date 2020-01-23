@@ -14,11 +14,11 @@
     "NameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "강낭콩",
+        "de": "Kidneybohnen",
          // "fr": "",
          // "hu": "",
-         // "it": "",
+         // "it": ""
         "ja": "インゲン豆",
          // "pt": "",
          // "ru": "",
@@ -28,8 +28,8 @@
     "DescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "많은 양의 피토헤마글루티닌(식물성적혈구응집소)를 함유하고있어 다른 콩보다 독성이 강합니다.",
+        "de": "Sie enthält eine hohen Anteil an Phytohämagglutinin und ist daher giftiger als andere Bohnen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -37,6 +37,6 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "它们含有大量的植物血凝素，使其比其他豆类更具毒性",
+          "zh": "它们含有大量的植物血凝素，这使得它们比其它豆类更具毒性。",
     }
 }

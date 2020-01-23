@@ -42,29 +42,29 @@
     "NameLocalization":
     {
         "es": "Dona de chocolate simple",
-         // "ko": "",
-         // "de": "",
+        "ko": "평범한 초콜릿 도넛",
+        "de": "Einfacher Schockoladendonut",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "プレーンチョコレートドーナツ",
         "pt": "Donut de chocolate simples",
          // "ru": "",
          // "tr": "",
-        "zh": "平底巧克力甜甜圈",
+        "zh": "纯巧克力甜甜圈",
     },
     "DescriptionLocalization":
     {
         "es": "Una simple dona de chocolate.",
-         // "ko": "",
-         // "de": "",
+        "ko": "평범한 모양의 초콜릿 도넛.",
+        "de": "Ein stinknormaler Schokoladendonut.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "普通のチョコレートドーナツ。",
         "pt": "Um donut de chocolate simples.",
          // "ru": "",
          // "tr": "",
-        "zh": "平底巧克力甜甜圈。一个平底巧克力甜甜圈。",
+        "zh": "纯巧克力甜甜圈。一个由巧克力占主要成分的甜甜圈。",
     }
 }

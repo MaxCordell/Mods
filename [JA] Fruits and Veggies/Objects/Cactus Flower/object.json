@@ -14,8 +14,8 @@
     "NameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "선인장 꽃",
+        "de": "Kaktusblüte",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -28,8 +28,8 @@
     "DescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "아름다운 선인장 꽃.",
+        "de": "Eine wunderschöne Kaktusblüte.",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -37,6 +37,6 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "美丽的仙人掌花",
+          "zh": "一朵盛开的仙人掌花。",
     }
 }

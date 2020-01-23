@@ -20,8 +20,8 @@
     "NameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "적양파",
+        "de": "Rote Zwiebel",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -34,8 +34,8 @@
     "DescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "양파의 붉은 버전.",
+        "de": "Die rote Version einer Zwiebel. Ganz einfach.",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -43,6 +43,6 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "红色的洋葱",
+          "zh": "红色的洋葱，就只是这样。",
     }
 }

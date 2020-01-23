@@ -14,29 +14,29 @@
     "NameLocalization":
     {
         "es": "Mantequilla de anacardo",
-         // "ko": "",
-        "de": "Kaschew Butter",
+        "ko": "캐슈 버터",
+        "de": "Cashew-Butter",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "カシューバター",
          // "pt": "",
          // "ru": "",
          // "tr": "",
-        "zh": "腰果奶油",
+        "zh": "腰果黄油",
     },
     "DescriptionLocalization":
     {
         "es": "Una mantequilla crujiente con trozos de anacardo dentro.",
-         // "ko": "",
-        "de": "Eine knusprige Butter mit Kashewnüssen drin.",
+        "ko": "캐슈가 들어간 바삭바삭한 버터.",
+        "de": "Eine knusprige Butter mit Cashewnüssen drin.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "砕いたカシューナッツが入っているカリカリなバター。",
          // "pt": "",
          // "ru": "",
          // "tr": "",
-        "zh": "里面有一些腰果。",
+        "zh": "内里混有腰果的酥脆黄油。",
     }
 }

@@ -14,29 +14,29 @@
     "NameLocalization":
     {
         "es": "Mantequilla de nuez",
-         // "ko": "",
+        "ko": "호두 버터",
         "de": "Walnussbutter",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "クルミバター",
          // "pt": "",
          // "ru": "",
          // "tr": "",
-        "zh": "胡桃奶油",
+        "zh": "胡桃黄油",
     },
     "DescriptionLocalization":
     {
         "es": "Una mantequilla crujiente con trozos de nuez.",
-         // "ko": "",
+        "ko": "조그마한 호두가 들어있는 바삭바삭한 버터.",
         "de": "Eine knusprige Butter mit Walnussstücken.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "クルミの粒を混ぜたカリカリなバター。",
          // "pt": "",
          // "ru": "",
          // "tr": "",
-        "zh": "奶油里有着松脆的胡桃。",
+        "zh": "黄油里有着松脆的胡桃。",
     }
 }

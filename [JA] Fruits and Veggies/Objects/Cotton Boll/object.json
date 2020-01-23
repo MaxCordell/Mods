@@ -1,7 +1,7 @@
 {
     "Name": "Cotton Boll",
     "Description": "Fluffy and white, it can be used to make thread.",
-    "Category": "Vegetable",
+    "Category": "Fruit",
     "Edibility": -300,
     "Price": 65,
     "IsColored": false,
@@ -28,8 +28,8 @@
     "DescriptionLocalization":
     {
         "es": "Esponjoso y blanco, puede ser utilizado para hacer hilo.",
-        "ko": "하얗고 폭신하며, 실을 만드는데 사용할 수 있습니다.",
-        "de": "Weiß und flauschig, es wird zu Garn gesponnen.",
+        "ko": "푹신하고 흰 목화 솜은, 실을 만드는데 이용됩니다.",
+        "de": "Weiß und flauschig, wird zu Garn gesponnen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -37,6 +37,6 @@
         "pt": "Fofa e branca, ele pode ser usada para fazer fios.",
          // "ru": "",
          // "tr": "",
-        "zh": "蓬松的和白色的，可以用来制作线。",
+        "zh": "蓬松白色的棉花，可以用来制作线。",
     }
 }

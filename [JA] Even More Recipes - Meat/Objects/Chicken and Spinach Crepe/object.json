@@ -48,7 +48,7 @@
     {
         "es": "Crepa de pollo y espinacas",
         "ko": "닭고기와 시금치 크레페",
-         // "de": "",
+        "de": "Hähnchen-Spinat-Crêpe",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -56,13 +56,13 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-        "zh": "鸡肉菠菜薄煎饼",
+        "zh": "菠菜鸡肉可丽饼",
     },
     "DescriptionLocalization":
     {
         "es": "Una crepa salada, rellena con pollo y espinacas.",
         "ko": "닭고기와 시금치로 속을 채운, 풍미있는 크레페.",
-         // "de": "",
+        "de": "Ein herzhafter Crêpe, gefüllt mit Hähnchen und Spinat.",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -70,6 +70,6 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-        "zh": "鸡肉菠菜薄煎饼。一份好吃的薄煎饼，里面填满了鸡肉和菠菜。",
+        "zh": "菠菜鸡肉可丽饼。一份填满了鸡肉和菠菜的可丽饼，好吃。",
     }
 }

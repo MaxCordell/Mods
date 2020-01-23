@@ -37,12 +37,12 @@
     "NameLocalization":
     {
         "es": "Paleta de crema de fresa",
-         // "ko": "",
-         // "de": "",
+        "ko": "딸기 크림 팝시클",
+        "de": "Erdbeereis am Stiel",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "イチゴのクリームアイスバー",
         "pt": "Picolé de creme de morango",
          // "ru": "",
          // "tr": "",
@@ -51,12 +51,12 @@
     "DescriptionLocalization":
     {
         "es": "¡Paleta con un sabor cremoso!",
-         // "ko": "",
-         // "de": "",
+        "ko": "막대기에 매달린 딸기 맛!",
+        "de": "Göttliche Erdbeeren am Stiel.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "アイス棒にイチゴのおいしさ！",
         "pt": "Um morango suculento no palito!",
          // "ru": "",
          // "tr": "",

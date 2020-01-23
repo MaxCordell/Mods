@@ -41,12 +41,12 @@
     "NameLocalization":
     {
         "es": "Algodón de azúcar arco iris",
-         // "ko": "",
-         // "de": "",
+        "ko": "무지개 솜사탕",
+        "de": "Regenbogenzuckerwatte",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "レインボーわたあめ",
         "pt": "Algodão doce de arco-íris",
          // "ru": "",
          // "tr": "",
@@ -55,12 +55,12 @@
     "DescriptionLocalization":
     {
         "es": "Azúcar hilada muy colorida.",
-         // "ko": "",
-         // "de": "",
+        "ko": "알록달록 솜사탕.",
+        "de": "Lauter bunte Zuckerfäden.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "とてもカラフルな砂糖菓子。",
         "pt": "É muito colorido tecido com açúcar.",
          // "ru": "",
          // "tr": "",

@@ -40,12 +40,12 @@
     "NameLocalization":
     {
         "es": "Galleta calamerina",
-         // "ko": "",
-         // "de": "",
+        "ko": "오징어 쿠키",
+        "de": "Tintenfischplätzchen",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "イカクッキー",
         "pt": "Biscoito de povinho",
          // "ru": "",
          // "tr": "",
@@ -54,12 +54,12 @@
     "DescriptionLocalization":
     {
         "es": "Una linda galleta con forma de calamar.",
-         // "ko": "",
-         // "de": "",
+        "ko": "오징어 모양의 귀여운 쿠키.",
+        "de": "Ein süßes Plätzchen in Form eines Tintenfischs.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "イカの形をしたかわいいクッキー。",
         "pt": "Um biscoito fofo em forma de lula.",
          // "ru": "",
          // "tr": "",

@@ -20,8 +20,8 @@
     "NameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "샬롯",
+        "de": "Schalotte",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -29,13 +29,13 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "小葱",
+          "zh": "火葱",
     },
     "DescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "양파의 작은 버전.",
+        "de": "Eine mildere Unterart der Zwiebel.",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -43,6 +43,6 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "更温和的葱",
+          "zh": "更温和的洋葱。",
     }
 }

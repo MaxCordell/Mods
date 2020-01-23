@@ -26,8 +26,8 @@
     "SeedNameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "타바스코 페퍼 씨앗",
+        "de": "Tabasco-Pfeffer-Saat",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -35,13 +35,13 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "朝天椒种子",
+          "zh": "塔巴斯哥辣椒种子",
     },
     "SeedDescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "가을 작물. 성장하려먼 10일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다.",
+        "de": "Pflanze sie im Herbst. Wächst in 10 Tagen heran und kann danach mehrmals geerntet werden.",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -49,6 +49,6 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "秋天种植，10天成熟 之后持续生长",
+          "zh": "秋天播种，10天成熟，在第一次收获后循环生产。",
     }
 }

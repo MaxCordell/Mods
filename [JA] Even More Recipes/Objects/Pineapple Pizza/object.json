@@ -37,29 +37,29 @@
     "NameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "파인애플 피자",
+        "de": "Pizza Hawaii",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "パイナップルピザ",
          // "pt": "",
          // "ru": "",
          // "tr": "",
-        "zh": "水煮梨",
+        "zh": "凤梨披萨",
     },
     "DescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "열대지방에서 인기가 있습니다.",
+        "de": "Beliebt in tropischen Gebieten aber auch Deutschland.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "南国で人気がある。",
          // "pt": "",
          // "ru": "",
          // "tr": "",
-        "zh": "水煮梨。去皮的梨腌渍在蜂蜜里。",
+        "zh": "凤梨披萨。流行于热带地区。",
     }
 }

@@ -16,8 +16,8 @@
     "NameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "감초",
+         // "de": "Süßholzwurzel",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -30,8 +30,8 @@
     "DescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "사탕의 향미료로 쓰이는 자연재배 식물.",
+         // "de": "Eine natürlich wachsende Pflanze, die die Grundlage für Lakritz bildet.",
          // "fr": "",
          // "hu": "",
          // "it": "",

@@ -36,12 +36,12 @@
     "NameLocalization":
     {
         "es": "Pastel púrpura",
-         // "ko": "",
-         // "de": "",
+        "ko": "퍼플 파스텔 케이크",
+        "de": "Lila Pastellkuchen",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "パープルパステルケーキ",
         "pt": "Bolo na cor roxo pastel",
          // "ru": "",
          // "tr": "",
@@ -50,12 +50,12 @@
     "DescriptionLocalization":
     {
         "es": "¡Sabroso!",
-         // "ko": "",
-         // "de": "",
+        "ko": "맛있어요!",
+        "de": "LEcker!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "うまい！",
         "pt": "Delicioso!",
          // "ru": "",
          // "tr": "",

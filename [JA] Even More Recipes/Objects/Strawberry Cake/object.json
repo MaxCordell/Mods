@@ -43,12 +43,12 @@
     "NameLocalization":
     {
         "es": "Pastel de fresa",
-         // "ko": "",
-         // "de": "",
+        "ko": "딸기 케이크",
+        "de": "Erdbeerkuchen",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ストロベリーケーキ",
         "pt": "Bolo de morango",
          // "ru": "",
          // "tr": "",
@@ -57,12 +57,12 @@
     "DescriptionLocalization":
     {
         "es": "¡Un delicioso regalo de verano!",
-         // "ko": "",
-         // "de": "",
+        "ko": "맛있는 여름 간식!",
+        "de": "Der perfekte Kuchen für den Sommer.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "おいしい夏のごちそう！",
         "pt": "Um delicioso deleite de verão!",
          // "ru": "",
          // "tr": "",

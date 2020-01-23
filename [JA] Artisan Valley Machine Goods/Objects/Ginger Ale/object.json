@@ -16,29 +16,29 @@
     "NameLocalization":
     {
         "es": "Refresco de jengibre",
-         // "ko": "",
+        "ko": "생강 에일",
         "de": "Ginger Ale",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ジンジャーエール",
          // "pt": "",
          // "ru": "",
          // "tr": "",
-        "zh": "姜啤酒",
+        "zh": "姜汁汽水",
     },
     "DescriptionLocalization":
     {
         "es": "Una bebida ligera a menudo utilizada para calmar los dolores de estómago.",
-         // "ko": "",
+        "ko": "복통을 가라앉히기 위해 자주 사용되는 가벼운 음료.",
         "de": "Ein leichtes Getränk, das oft zur Behandlung von Bauchschmerzen verwendet wird.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "胃痛を和らげるためによく飲まれる飲み物。",
          // "pt": "",
          // "ru": "",
          // "tr": "",
-        "zh": "一种常用于缓解胃痛的饮料。",
+        "zh": "一种清淡的饮料，通常用来缓解胃痛。",
     }
 }

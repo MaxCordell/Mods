@@ -26,8 +26,8 @@
     "SeedNameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "오크라 씨앗",
+        "de": "Okra-Saat",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -40,8 +40,8 @@
     "SeedDescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "여름 또는 가을 작물. 성장하려먼 10일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다.",
+        "de": "Pflanze sie im Sommer oder Herbst. Wächst in 10 Tagen heran und kann danach mehrmals geerntet werden.",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -49,6 +49,6 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "在夏天或秋天种植。成熟需要10天，在第一次收获后继续生产",
+          "zh": "夏天或秋天播种。10天成熟，在第一次收获后循环生产。",
     }
 }

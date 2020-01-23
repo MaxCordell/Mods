@@ -15,8 +15,8 @@
     "NameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "토란",
+        "de": "Taroknolle",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -24,13 +24,13 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "稻芋根",
+          "zh": "芋头",
     },
     "DescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "토란의 뿌리. 감자처럼 탄수화물이 많습니다.",
+        "de": "Die Knolle einer Taro. Enthält wie auch Kartoffeln viel Stärke.",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -38,6 +38,6 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "芋头叶的根。它是淀粉状的，像土豆",
+          "zh": "芋头植株的根。它是淀粉质的，像土豆一样。",
     }
 }

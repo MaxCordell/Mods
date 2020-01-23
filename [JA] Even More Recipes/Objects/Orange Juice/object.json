@@ -32,12 +32,12 @@
     "NameLocalization":
     {
         "es": "Jugo de naranja",
-         // "ko": "",
-         // "de": "",
+        "ko": "오렌지 주스",
+        "de": "Orangensaft",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "オレンジジュース",
         "pt": "Suco de laranja",
          // "ru": "",
          // "tr": "",
@@ -46,12 +46,12 @@
     "DescriptionLocalization":
     {
         "es": "¡Jugo de naranja recién exprimido!",
-         // "ko": "",
-         // "de": "",
+        "ko": "갓 짜낸 신선한 오렌지 주스!",
+        "de": "Frisch gepresster Orangensaft!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "絞りたてのオレンジジュース！",
         "pt": "Suco de laranja espremido na hora!",
          // "ru": "",
          // "tr": "",

@@ -30,12 +30,12 @@
     "NameLocalization":
     {
         "es": "Algodón de azúcar de conejito",
-         // "ko": "",
-         // "de": "",
+        "ko": "토끼 솜사탕",
+        "de": "Hasenzuckerwatte",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ウサギのわたあめ",
         "pt": "Algodão doce de coelhinho",
          // "ru": "",
          // "tr": "",
@@ -44,15 +44,15 @@
     "DescriptionLocalization":
     {
         "es": "¡Tiene forma de conejito!",
-         // "ko": "",
-         // "de": "",
+        "ko": "토끼 모양으로 된 솜사탕이에요!",
+        "de": "Zuckerwatte mit flauschigen Hasenohren!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ウサギのような形をしています！",
         "pt": "Tem a forma de um coelho!",
          // "ru": "",
          // "tr": "",
-        "zh": "兔耳棉花糖。它的形状是兔耳！",
+        "zh": "兔耳棉花糖。它的形状像兔耳！",
     }
 }

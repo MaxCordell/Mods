@@ -43,12 +43,12 @@
       "NameLocalization":
       {
           "es": "Macaron de fresa",
-           // "ko": "",
-           // "de": "",
+          "ko": "딸기 마카롱",
+          "de": "Erdbeer-Macaron",
            // "fr": "",
            // "hu": "",
            // "it": "",
-           // "ja": "",
+          "ja": "ストロベリーマカロン",
           "pt": "Macaron de morango",
            // "ru": "",
            // "tr": "",
@@ -57,12 +57,12 @@
       "DescriptionLocalization":
       {
           "es": "El macaron por excelencia, con aroma a fresas.",
-           // "ko": "",
-           // "de": "",
+          "ko": "딸기 맛이 나는, 전형적인 마카롱.",
+          "de": "Der Inbegriff von Macaron mit Erdbeergeschmack.",
            // "fr": "",
            // "hu": "",
            // "it": "",
-           // "ja": "",
+          "ja": "イチゴ風味のマカロンの典型。",
           "pt": "O melhor macaron de todos, com sabor de morangos.",
            // "ru": "",
            // "tr": "",

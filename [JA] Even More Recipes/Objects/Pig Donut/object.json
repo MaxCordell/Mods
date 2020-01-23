@@ -44,12 +44,12 @@
     "NameLocalization":
     {
         "es": "Dona cerdina",
-         // "ko": "",
-         // "de": "",
+        "ko": "돼지 도넛",
+        "de": "Schweinchendonut",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ブタドーナツ",
         "pt": "Donut de porquinho",
          // "ru": "",
          // "tr": "",
@@ -58,15 +58,15 @@
     "DescriptionLocalization":
     {
         "es": "Una linda dona con forma de cerdo!",
-         // "ko": "",
-         // "de": "",
+        "ko": "돼지 모양의 귀여운 도넛!",
+        "de": "Ein süßer Donut in Form eines Schweinchens.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ブタをかたどったかわいいドーナツ！",
         "pt": "Uma rosquinha fofa em formato de porco!",
          // "ru": "",
          // "tr": "",
-        "zh": "小猪甜甜圈。一个超可爱的甜甜圈形状像小猪！",
+        "zh": "小猪甜甜圈。一个超可爱的形似小猪的甜甜圈！",
     }
 }

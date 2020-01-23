@@ -21,12 +21,12 @@
     "NameLocalization":
     {
         "es": "Jugo de fresa con leche",
-         // "ko": "",
-         // "de": "",
+        "ko": "우유 가득 딸기 주스",
+        "de": "Milchiger Erdbeersaft",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "イチゴミルク缶",
         "pt": "Suco de morango com leite",
          // "ru": "",
          // "tr": "",
@@ -35,15 +35,15 @@
     "DescriptionLocalization":
     {
         "es": "Jugo 100% real!",
-         // "ko": "",
-         // "de": "",
+        "ko": "100% 리얼 주스!",
+        "de": "Aus 100% echtem Saft!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "100％果汁！",
         "pt": "100% feito com suco natural!",
          // "ru": "",
          // "tr": "",
-        "zh": "草莓味牛奶。添加真的草莓果汁！",
+        "zh": "草莓味牛奶。百分百天然草莓汁！",
     }
 }

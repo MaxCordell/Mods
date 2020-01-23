@@ -58,12 +58,12 @@
     "NameLocalization":
     {
         "es": "Paleta prismática",
-         // "ko": "",
-         // "de": "",
+        "ko": "프리즘 팝시클",
+        "de": "Prismatisches Eis am Stiel",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "プリズムアイスバー",
         "pt": "Picolé prismático",
          // "ru": "",
          // "tr": "",
@@ -72,12 +72,12 @@
     "DescriptionLocalization":
     {
         "es": "Se dice que contiene la fruta más rara del valle, te llenara de alegría.",
-         // "ko": "",
-         // "de": "",
+        "ko": "마을에서 가장 희귀한 과일을 가지고 있다고 말한다면, 기쁠거예요.",
+        "de": "Es wird überliefert das dieses Eis die seltensten Früchte des Tals enthält und es einen mit Freude erfüllt.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "谷で最も珍しいくだものを使っていて、食べるとやっぱりおいしい。",
         "pt": "Dizem que contém a fruta mais rara do vale, ela te enche de alegria.",
          // "ru": "",
          // "tr": "",

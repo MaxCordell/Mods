@@ -14,8 +14,8 @@
     "NameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "푸른 용설란",
+        "de": "Blaue Agave",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -23,13 +23,13 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "蓝色龙舌兰",
+          "zh": "蓝色龙舌兰叶",
     },
     "DescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "푸른 용설란에서 잘라낸 잎. 증류 가마를 이용해 술로 만들 수 있습니다.",
+        "de": "Ein geschnittener Wedel einer blauen Agave. Er kann in einer Destille zu Alkohol verarbeitet werden.",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -37,6 +37,6 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "从蓝色龙舌兰上剪下来的叶子。它可以用来蒸馏酒",
+          "zh": "从蓝色龙舌兰上切下的叶子。它可以用来制造酒精。",
     }
 }

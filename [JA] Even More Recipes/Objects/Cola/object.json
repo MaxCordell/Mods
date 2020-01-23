@@ -30,12 +30,12 @@
     "NameLocalization":
     {
         "es": "Cola",
-         // "ko": "",
-         // "de": "",
+        "ko": "콜라",
+        "de": "Cola",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "コーラ",
         "pt": "Cola",
          // "ru": "",
          // "tr": "",
@@ -44,12 +44,12 @@
     "DescriptionLocalization":
     {
         "es": "Sabe mejor que Joja Cola.",
-         // "ko": "",
-         // "de": "",
+        "ko": "조자 콜라보다 맛있어요.",
+        "de": "Besser als Joja Cola.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "Jojaコーラよりもおいしい。",
         "pt": "Tem um gosto melhor do que aquela Joja-Cola",
          // "ru": "",
          // "tr": "",

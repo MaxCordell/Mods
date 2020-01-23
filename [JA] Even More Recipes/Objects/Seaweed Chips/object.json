@@ -29,29 +29,29 @@
     "NameLocalization":
     {
         "es": "Chips de algas",
-         // "ko": "",
-         // "de": "",
+        "ko": "해초 칩",
+        "de": "Seetangchips",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ポテトチップスのり塩味",
         "pt": "Batatinhas de algas",
          // "ru": "",
          // "tr": "",
-        "zh": "紫菜味薯片",
+        "zh": "海苔味薯片",
     },
     "DescriptionLocalization":
     {
         "es": "Saben como el océano.",
-         // "ko": "",
-         // "de": "",
+        "ko": "바다 맛이 나요.",
+        "de": "Sie schmecken nach dem Meer.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "海の香りがする。",
         "pt": "Eles têm gosto do oceano.",
          // "ru": "",
          // "tr": "",
-        "zh": "紫菜味薯片。尝起来有海的味道。",
+        "zh": "海苔味薯片。尝起来有海的味道。",
     }
 }

@@ -17,29 +17,29 @@
     "NameLocalization":
     {
         "es": "Extracto de serrano",
-         // "ko": "",
+        "ko": "세라노 추출액",
         "de": "Serrano-Extrakt",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "チリセラーノエキス",
          // "pt": "",
          // "ru": "",
          // "tr": "",
-        "zh": "墨西哥辣椒提取液",
+        "zh": "塞拉诺高山椒提取液",
     },
     "DescriptionLocalization":
     {
         "es": "Este líquido ha sido extraído de un pimiento.",
-         // "ko": "",
-        "de": "Diese Flüssigkeit wurde aus Serrano extrahiert.",
+        "ko": "고추에서 추출됐습니다.",
+        "de": "Diese Flüssigkeit wurde aus einem Pfeffer extrahiert.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "トウガラシから抽出された液体。",
          // "pt": "",
          // "ru": "",
          // "tr": "",
-        "zh": "这种液体是从辣椒中提取出来的。",
+        "zh": "这种液体是从墨西哥的塞拉诺高山椒中提取出来的。",
     }
 }

@@ -37,12 +37,12 @@
     "NameLocalization":
     {
         "es": "Plátanos dulces fritos",
-         // "ko": "",
-         // "de": "",
+        "ko": "달콤한 바나나 튀김",
+        "de": "Gebratene Bananen",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "フライドバナナ",
         "pt": "Bananas doces fritas",
          // "ru": "",
          // "tr": "",
@@ -51,12 +51,12 @@
     "DescriptionLocalization":
     {
         "es": "Plátanos azucarados, salteados en mantequilla.",
-         // "ko": "",
-         // "de": "",
+        "ko": "버터에 튀긴 설탕 바나나.",
+        "de": "In Butter gebratene, gesüßte Bananen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "バターで炒めて砂糖をまぶしたバナナ。",
         "pt": "Bananas açucaradas, refogadas em manteiga.",
          // "ru": "",
          // "tr": "",

@@ -41,29 +41,29 @@
     "NameLocalization":
     {
         "es": "Sriracha",
-         // "ko": "",
-         // "de": "",
+        "ko": "스리라차",
+        "de": "Sriracha",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "シラチャーソース",
         "pt": "Molho sriracha",
          // "ru": "",
          // "tr": "",
-        "zh": "Sriracha辣椒酱",
+        "zh": "”红公鸡“辣椒酱",
     },
     "DescriptionLocalization":
     {
         "es": "Una salsa aún más picante.",
-         // "ko": "",
-         // "de": "",
+        "ko": "더 매운 소스.",
+        "de": "Eine pikante Sauce.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "より辛いソース。",
         "pt": "Um molho ainda mais picante.",
          // "ru": "",
          // "tr": "",
-        "zh": "Sriracha辣椒酱。这是一种很辣的酱汁。",
+        "zh": "”红公鸡“辣椒酱。这是一种非常辣的辣酱。",
     }
 }

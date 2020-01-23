@@ -33,12 +33,12 @@
     "NameLocalization":
     {
         "es": "Limonada fresca",
-         // "ko": "",
-         // "de": "",
+        "ko": "신선한 레모네이드",
+        "de": "Frische Limonade",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "フレッシュレモネード",
         "pt": "Limonada fresca",
          // "ru": "",
          // "tr": "",
@@ -47,12 +47,12 @@
     "DescriptionLocalization":
     {
         "es": "¡Limonada recién exprimida!",
-         // "ko": "",
-         // "de": "",
+        "ko": "갓 짜낸 레모네이드!",
+        "de": "Frisch gepresste Limonade!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "絞りたてのレモネード！",
         "pt": "Limonada espremida na hora!",
          // "ru": "",
          // "tr": "",

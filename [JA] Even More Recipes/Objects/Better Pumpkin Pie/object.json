@@ -48,12 +48,12 @@
       "NameLocalization":
       {
           "es": "Pastel de calabaza mejorado",
-           // "ko": "",
-           // "de": "",
+          "ko": "업그레이드 된 호박 파이",
+          "de": "Verbesserter Kürbiskuchen",
            // "fr": "",
            // "hu": "",
            // "it": "",
-           // "ja": "",
+          "ja": "パンプキンパイ",
           "pt": "Melhor torta de abóbora",
            // "ru": "",
            // "tr": "",
@@ -62,12 +62,12 @@
       "DescriptionLocalization":
       {
           "es": "Nada es mejor que una rebanada de pastel de calabaza caliente.",
-           // "ko": "",
-           // "de": "",
+          "ko": "따뜻한 호박 파이 한 조각보다 좋은 건 없죠.",
+          "de": "Nichts geht über ein schön warmes Stück Kürbiskuchen.",
            // "fr": "",
            // "hu": "",
            // "it": "",
-           // "ja": "",
+          "ja": "熱々のカボチャスライスに勝るものはない。",
           "pt": "Nada é melhor do que uma fatia de torta de abóbora quente.",
            // "ru": "",
            // "tr": "",

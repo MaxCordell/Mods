@@ -27,12 +27,12 @@
     "SeedNameLocalization":
     {
         "es": "Semillas de echinacea",
-        "ko": "퍼플 루드베키아 씨앗",
-        "de": "Coneblumen-Saat",
-         // "fr": "",
+        "ko": "자주루드베키아 씨앗",
+        "de": "Purpurner Sonnenhut-Saat",
+        "fr": "Graines de Echinacea",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ムラサキバレンギクの種",
         "pt": "Sementes de margarida roxa",
          // "ru": "",
          // "tr": "",
@@ -41,12 +41,12 @@
     "SeedDescriptionLocalization":
     {
         "es": "Plántalas en otoño. Toma 9 días para producir una flor morada.",
-        "ko": "가을에 심습니다. 9일후에 보라색 루드베키아 꽃이 핍니다.",
-        "de": "Pflanzen sie im Herbst. Wächst in 10 Tagen heran.",
-         // "fr": "",
+        "ko": "가을에 심으세요. 9일 후 보라색 꽃이 핍니다.",
+        "de": "Pflanze sie im Herbst. Wächst in 9 Tagen zu einer lilafarbenen Blume heran.",
+        "fr": "Plantez à l'automne. Prend 9 jours pour produire une fleur violette.",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "秋植えの花。9日かけて紫色の花を咲かせる。",
         "pt": "Plante-as no outono. Demoram 9 dias para produzirem uma flor roxa.",
          // "ru": "",
          // "tr": "",

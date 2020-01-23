@@ -34,12 +34,12 @@
     "NameLocalization":
     {
         "es": "Huevos endiablados",
-         // "ko": "",
-         // "de": "",
+        "ko": "데블드 에그",
+        "de": "Russische Eier",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "デビルドエッグ",
         "pt": "Ovos recheados",
          // "ru": "",
          // "tr": "",
@@ -48,12 +48,12 @@
     "DescriptionLocalization":
     {
         "es": "Entra en mi boca, Satanás.",
-         // "ko": "",
-         // "de": "",
+        "ko": "내 입으로 들어가, 사탄.",
+        "de": "Ab in meinen Mund, Satan.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "悪魔よ、私の口に入れなさい。",
         "pt": "Entre na minha boca, PARA JÁ!.",
          // "ru": "",
          // "tr": "",

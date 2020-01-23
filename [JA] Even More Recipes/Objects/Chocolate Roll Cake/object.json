@@ -44,12 +44,12 @@
     "NameLocalization":
     {
         "es": "Pastel enrollado de chocolate",
-         // "ko": "",
-         // "de": "",
+        "ko": "초콜릿 롤 케이크",
+        "de": "Schokoladenkuchenrolle",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "チョコレートロールケーキ",
         "pt": "Rocambole de chocolate",
          // "ru": "",
          // "tr": "",
@@ -58,12 +58,12 @@
     "DescriptionLocalization":
     {
         "es": "Con una fresa encima.",
-         // "ko": "",
-         // "de": "",
+        "ko": "딸기가 장식된 케이크.",
+        "de": "Gekrönt mit einer Erdbeere.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "イチゴがトッピングされている。",
         "pt": "Tem um morango no topo.",
          // "ru": "",
          // "tr": "",

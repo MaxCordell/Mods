@@ -36,12 +36,12 @@
     "NameLocalization":
     {
         "es": "Ramen",
-         // "ko": "",
-         // "de": "",
+        "ko": "라면",
+        "de": "Ramen",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ラーメン",
         "pt": "Miojo",
          // "ru": "",
          // "tr": "",
@@ -50,12 +50,12 @@
     "DescriptionLocalization":
     {
         "es": "Un plato sencillo con fideos ligeramente masticables.",
-         // "ko": "",
-         // "de": "",
+        "ko": "쫄깃쫄깃한 면 요리.",
+        "de": "Eine traditionelle japanische Nudelsuppe.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "少し歯ごたえのある麺を使ったシンプルな料理。",
         "pt": "Um prato simples com macarrão levemente mastigável.",
          // "ru": "",
          // "tr": "",

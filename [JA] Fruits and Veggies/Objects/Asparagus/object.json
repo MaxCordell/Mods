@@ -15,8 +15,8 @@
     "NameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "아스파라거스",
+        "de": "Spargel",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -29,8 +29,8 @@
     "DescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "어린 싹은 봄 요리에 쓰입니다.",
+        "de": "Seine jungen Triebe werden als Frühlingsgemüse gegessen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -38,6 +38,6 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "它的嫩枝用作春季蔬菜",
+          "zh": "它的嫩芽用作春季蔬菜",
     }
 }

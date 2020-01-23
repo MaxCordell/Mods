@@ -23,12 +23,12 @@
     "SeedNameLocalization":
     {
         "es": "Semillas de manzanilla",
-        "ko": "카모마일 씨앗",
-        "de": "Gänseblümchen-Saat",
-         // "fr": "",
+        "ko": "캐모마일 씨앗",
+        "de": "Kamillen-Saat",
+        "fr": "Graines d'chamomile",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "カモミールの種",
         "pt": "Sementes de Camomila",
          // "ru": "",
          // "tr": "",
@@ -37,12 +37,12 @@
     "SeedDescriptionLocalization":
     {
         "es": "Plántalas estos en primavera. Toma 5 días para madurar.",
-        "ko": "봄에 심습니다. 5일후 피는 꽆입니다.",
-        "de": "Pflanzen sie im Frühling. Wächst in 8 Tagen heran.",
-         // "fr": "",
+        "ko": "봄에 심으세요. 5일후 꽃이 핍니다.",
+        "de": "Pflanze sie im Frühling. Wächst in 5 Tagen heran.",
+        "fr": "Plantez-les au printemps. Prend 5 jours pour grandir.",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "春植えの花。5日かけて花を咲かせる。",
         "pt": "Plante-as na Primavera. Demoram 5 dias para amadurecerem.",
          // "ru": "",
          // "tr": "",

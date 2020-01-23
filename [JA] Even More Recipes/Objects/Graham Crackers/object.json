@@ -36,12 +36,12 @@
     "NameLocalization":
     {
         "es": "Galletas graham",
-         // "ko": "",
-         // "de": "",
+        "ko": "그레이엄 크래커",
+        "de": "Graham Cracker",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "グラハムクラッカー",
         "pt": "Biscoitos de Graham",
          // "ru": "",
          // "tr": "",
@@ -50,12 +50,12 @@
     "DescriptionLocalization":
     {
         "es": "¿Quién es Graham de todos modos?",
-         // "ko": "",
-         // "de": "",
+        "ko": "어쨌든 그레이엄이 누구죠?",
+        "de": "Nur wer ist Graham überhaupt?",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "とりあえずグラハムって誰？",
         "pt": "Quem é Graham, afinal?",
          // "ru": "",
          // "tr": "",

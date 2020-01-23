@@ -2,11 +2,12 @@
     "Name": "Bamboo",
     "Product": "Bamboo",
     "SeedName": "Bamboo Cutting",
-    "SeedDescription": "Plant these in spring or summer. Takes 5 days to mature. Harvest with a scythe.",
+    "SeedDescription": "Plant these in spring or summer. Takes 7 days to mature. Harvest with a scythe. Continues to produce after the first harvest.",
     "Type": "Vegetable",
+    "CropType": "Paddy",
 
     "Seasons": ["spring", "summer"],
-    "Phases": [1, 1, 1, 1, 3, ],
+    "Phases": [1, 1, 2, 1, 2, ],
     "RegrowthPhase": 5,
     "HarvestWithScythe": true,
     "TrellisCrop": false,
@@ -25,8 +26,8 @@
     "SeedNameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "대나무 씨앗",
+        "de": "Bambussteckling",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -39,15 +40,15 @@
     "SeedDescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "봄 또는 여름 작물. 성장하려면 5일이 소요됩니다. 낫으로 수확할 수 있습니다.",
+        "de": "Planze ihn im Frühling oder Sommer. Wächst in 7 Tagen heran und kann danach mehrmals geerntet werden. Ernte ihn mit einer Sichel.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "春または夏植えの作物。そだつのに5日かかる。収穫にはカマが必要。",
+        "ja": "春または夏植えの作物。そだつのに7日かかる。最初の収穫のあともくりかえし収穫できる。収穫にはカマが必要。",
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "在春天或夏天种植。需要5天才能成熟。用镰刀收割",
+          "zh": "春天或夏天播种，五天成熟，用镰刀收获。",
     }
 }

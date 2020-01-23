@@ -26,8 +26,8 @@
     "SeedNameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "듀럼밀 씨앗",
+        "de": "Hartweizen-Saat",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -40,8 +40,8 @@
     "SeedDescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "가을 작물. 성장하려면 4일이 소요됩니다.",
+        "de": "Pflanze sie im Herbst. Wächst in 4 Tagen heran.",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -49,6 +49,6 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "秋天种这些。需要4天才能成熟",
+          "zh": "秋天播种。4天成熟。",
     }
 }

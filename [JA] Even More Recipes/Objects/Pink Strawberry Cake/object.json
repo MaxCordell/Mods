@@ -38,12 +38,12 @@
     "NameLocalization":
     {
         "es": "Pastel de fresa rosa",
-         // "ko": "",
-         // "de": "",
+        "ko": "핑크 딸기 케이크",
+        "de": "Rosa Erdbeerkuchen",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ピンクストロベリードーナツ",
         "pt": "Bolo de morango rosa",
          // "ru": "",
          // "tr": "",
@@ -52,12 +52,12 @@
     "DescriptionLocalization":
     {
         "es": "¡Sabroso!",
-         // "ko": "",
-         // "de": "",
+        "ko": "맛있어요!",
+        "de": "Lecker!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "うまい！",
         "pt": "Delicioso!",
          // "ru": "",
          // "tr": "",

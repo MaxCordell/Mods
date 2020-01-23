@@ -40,12 +40,12 @@
     "NameLocalization":
     {
         "es": "Cheesecake",
-         // "ko": "",
-         // "de": "",
+        "ko": "치즈 케이크",
+        "de": "Käsekuchen",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "チーズケーキ",
         "pt": "Bolo de queijo",
          // "ru": "",
          // "tr": "",
@@ -54,12 +54,12 @@
     "DescriptionLocalization":
     {
         "es": "Un postre clásico.",
-         // "ko": "",
-         // "de": "",
+        "ko": "클래식한 디저트.",
+         // "de": "Ein klassischer Kuchen für den Nachtisch.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "定番のデザート。",
         "pt": "Uma sobremesa clássica.",
          // "ru": "",
          // "tr": "",

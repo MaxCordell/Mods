@@ -48,12 +48,12 @@
     "NameLocalization":
     {
         "es": "Muffin otoñal",
-         // "ko": "",
-         // "de": "",
+        "ko": "가을 머핀",
+        "de": "Herbst Muffin",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "オータムマフィン",
         "pt": "Muffin de Outono",
          // "ru": "",
          // "tr": "",
@@ -62,15 +62,15 @@
     "DescriptionLocalization":
     {
         "es": "Un panecillo que está cubierto con azúcar en polvo.",
-         // "ko": "",
-         // "de": "",
+        "ko": "슈가 파우더를 뿌린 머핀.",
+        "de": "Ein dekadenter Muffin bedeckt mit Puderzucker.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "粉砂糖をトッピングした魅惑的なマフィン。",
         "pt": "Um bolinho decadente coberto com açúcar em pó.",
          // "ru": "",
          // "tr": "",
-        "zh": "秋日松饼。一个软蹋蹋的松饼上面加上糖粉。",
+        "zh": "秋日松饼。一个上面撒满糖粉的软塌塌松饼。",
     }
 }

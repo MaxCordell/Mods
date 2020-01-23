@@ -41,12 +41,12 @@
     "NameLocalization":
     {
         "es": "Dedos de dama",
-         // "ko": "",
-         // "de": "",
+        "ko": "레이디 핑거",
+        "de": "Frauenfinger",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "レディフィンガービスケット",
         "pt": "Biscoito champanhe",
          // "ru": "",
          // "tr": "",
@@ -55,12 +55,12 @@
     "DescriptionLocalization":
     {
         "es": "Una dulce galletita.",
-         // "ko": "",
-         // "de": "",
+        "ko": "달콤하고 맛있는 쿠키.",
+        "de": "Ein süßer Keks.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ありきたりな甘いクッキー。",
         "pt": "Um doce, biscoito que parece com pão.",
          // "ru": "",
          // "tr": "",

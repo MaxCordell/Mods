@@ -24,29 +24,29 @@
     "NameLocalization":
     {
         "es": "Affogato",
-         // "ko": "",
-        "de": "ertrunken",
+        "ko": "아포카토",
+        "de": "Affogato",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "アフォガード",
          // "pt": "",
          // "ru": "",
          // "tr": "",
-        "zh": "淹死的",
+        "zh": "阿芙佳朵",
     },
     "DescriptionLocalization":
     {
         "es": "Café negro con una cucharada de helado de vainilla que se derrite por dentro.",
-         // "ko": "",
-        "de": "Reichhaltiger schwarzer Kaffee mit einer Kugel Vanilleeis, die darin schmilzt.",
+        "ko": "바닐라 아이스크림 한 숟갈이 녹아있는 블랙커피.",
+        "de": "Kräftiger schwarzer Kaffee mit einer Kugel Vanilleeis, die darin schmilzt.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "バニラアイスクリームを落し入れたリッチなコーヒー。",
          // "pt": "",
          // "ru": "",
          // "tr": "",
-        "zh": "浓郁的黑咖啡，里面融合着一勺香草冰淇淋。",
+        "zh": "浓郁的黑咖啡，往里混入一勺香草冰淇淋。",
     }
 }

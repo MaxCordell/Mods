@@ -45,12 +45,12 @@
     "NameLocalization":
     {
         "es": "Helado y pastel de mermelada",
-         // "ko": "",
-         // "de": "",
+        "ko": "아이스크림과 잼 케이크",
+        "de": "Marmeladenkuchen mit Eis",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "アイスクリームジャムパンケーキ",
         "pt": "Bolo de sorvete e geléia",
          // "ru": "",
          // "tr": "",
@@ -59,12 +59,12 @@
     "DescriptionLocalization":
     {
         "es": "Perfecto para los que tienen un diente dulce.",
-         // "ko": "",
-         // "de": "",
+        "ko": "단것을 좋아하는 사람들에게 안성맞춤이에요.",
+        "de": "Perfekt für Naschkatzen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "甘党には最適。",
         "pt": "Perfeito para quem gosta de doces.",
          // "ru": "",
          // "tr": "",

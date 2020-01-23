@@ -1,7 +1,9 @@
 {
     "Name": "Ginger",
     "Description": "It is a flavoring agent in beer, soft drinks, candies, and a staple spice and condiment in many countries.",
-    "Category": "Vegetable",
+    "Category": "Vegetable",      
+    "CategoryTextOverride": "Herb",
+    "CategoryColorOverride": "93, 153, 80, 255",
     "Edibility": 8,
     "Price": 80,
     "IsColored": false,
@@ -31,8 +33,8 @@
     "DescriptionLocalization":
     {
         "es": "Es un agente aromatizante en cervezas, refrescos, dulces, una especia y condimento básico en muchos países.",
-        "ko": "그것은 많은 나라에서 쓰이는 맥주, 음료, 사탕 및 주요 향신료 및 조미료의 향료입니다.",
-        "de": "Er wird in vielen Produkten verwendet, in Süßigkeiten, in Bieren, als Gewürz und als Heilkräuter, in vielen Ländern.",
+        "ko": "많은 나라에서 맥주, 청량음료, 사탕 그리고 향신료 및 조미료로 사용됩니다.",
+        "de": "Er wird in vielen Ländern auf mannigfaltige Art verwendet; in Süßigkeiten, in Bieren, als Gewürz und als Heilkräuter.",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -41,5 +43,10 @@
          // "ru": "",
          // "tr": "",
         "zh": "它是许多国家的啤酒、饮料、糖果的调味剂，还是一种主要香料和调味品。",
-    }
+    },
+    "ContextTags": [
+        "season_fall",
+        "color_tan",
+        "herb_item",
+    ],
 }

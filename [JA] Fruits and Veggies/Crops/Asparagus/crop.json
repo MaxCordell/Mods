@@ -26,8 +26,8 @@
     "SeedNameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "아스파라거스 씨앗",
+        "de": "Spargel-Setzling",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -40,8 +40,8 @@
     "SeedDescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "여름 작물. 성장하려면 5일이 소요됩니다.",
+        "de": "Planz sie im Sommer. Wächst in 5 Tagen heran.",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -49,6 +49,6 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "夏天种这些。需要5天才能成熟。",
+          "zh": "夏天播种，5天成熟",
     }
 }

@@ -40,12 +40,12 @@
     "NameLocalization":
     {
         "es": "Tarta de cerezas",
-         // "ko": "",
-         // "de": "",
+        "ko": "체리 파이",
+        "de": "Kirschkuchen",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "チェリーパイ",
         "pt": "Torta de cereja",
          // "ru": "",
          // "tr": "",
@@ -54,15 +54,15 @@
     "DescriptionLocalization":
     {
         "es": "Una tarta rellena de suaves y pegajosas cerezas.",
-         // "ko": "",
-         // "de": "",
+        "ko": "부드럽고 끈적끈적한 체리로 채워진 파이.",
+        "de": "Ein Kuchen, gefüllt mit weichen, klebrigen Kirschen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "柔らかくとろみをつけたチェリーを散りばめたパイ。",
         "pt": "Uma massa de torta cheia de cerejas macias e pegajosas.",
          // "ru": "",
          // "tr": "",
-        "zh": "这个派的里面有软软的，黏黏的樱桃。",
+        "zh": "这个派里面有软软黏黏的樱桃。",
     }
 }

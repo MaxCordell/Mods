@@ -25,12 +25,12 @@
     "SeedNameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "병아리콩 씨앗",
+        "de": "Kichererbsen-Saat",
          // "fr": "",
          // "hu": "",
          // "it": "",
-        "ja": "ヒヨコマメのタネ",
+        "ja": "ヒヨコ豆のタネ",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -39,8 +39,8 @@
     "SeedDescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "여름 작물. 성장하려면 10일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다.",
+        "de": "Pflanze sie im Sommer. Wächst in 10 Tagen heran und kann danach mehrmals geerntet werden.",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -48,6 +48,6 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "春天种这些。成熟需要10天，在第一次收获后继续生产",
+          "zh": "夏天播种，10天成熟，在第一次收获后循环生产。",
     }
 }

@@ -33,12 +33,12 @@
     "NameLocalization":
     {
         "es": "Pretzel suave",
-         // "ko": "",
-         // "de": "",
+        "ko": "부드러운 프레젤",
+        "de": "Weiche Brezel",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ソフトプレッツェル",
         "pt": "Pretzel macio",
          // "ru": "",
          // "tr": "",
@@ -47,12 +47,12 @@
     "DescriptionLocalization":
     {
         "es": "Un aperitivo clásico.",
-         // "ko": "",
-         // "de": "",
+        "ko": "클래식한 간식.",
+        "de": "Ein klassisches Gebäck.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "クラシックなスナック。",
         "pt": "Um lanche clássico.",
          // "ru": "",
          // "tr": "",

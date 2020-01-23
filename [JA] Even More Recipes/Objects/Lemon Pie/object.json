@@ -36,12 +36,12 @@
     "NameLocalization":
     {
         "es": "Tarta de limón",
-         // "ko": "",
-         // "de": "",
+        "ko": "레몬 파이",
+        "de": "Zitronenkuchen",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "レモンパイ",
         "pt": "Torta de limão siciliano",
          // "ru": "",
          // "tr": "",
@@ -50,12 +50,12 @@
     "DescriptionLocalization":
     {
         "es": "Pastel de limón en picnics, son la forma de disfrutar de su verano.",
-         // "ko": "",
-         // "de": "",
+        "ko": "레몬 파이와 피크닉은 여름을 즐기는 좋은 방법입니다.",
+        "de": "Zitronenkuchen und Picknicks sind der richtige Weg, um den Sommer zu genießen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "レモンパイとピクニックは、夏を楽しむ方法です。",
         "pt": "Torta de limão siciliano e piqueniques são a melhor maneira de aproveitar o seu verão.",
          // "ru": "",
          // "tr": "",

@@ -28,12 +28,12 @@
     "NameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+         "ko": "구운 주키니",
+         "de": "Gegrillte Zucchini",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "焼きズッキーニ",
          // "pt": "",
          // "ru": "",
          // "tr": "",
@@ -42,12 +42,12 @@
     "DescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "구운 주키니 한 접시.",
+        "de": "Ein Teller voll gegrillter Zucchini.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "焼いたズッキーニのプレート。",
          // "pt": "",
          // "ru": "",
          // "tr": "",

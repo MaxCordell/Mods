@@ -40,12 +40,12 @@
     "NameLocalization":
     {
         "es": "Tiramisú",
-         // "ko": "",
-         // "de": "",
+        "ko": "리치 티라미수",
+        "de": "Reichhaltiges Tiramisu",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ティラミス",
         "pt": "Tiramisu valioso",
          // "ru": "",
          // "tr": "",
@@ -54,12 +54,12 @@
     "DescriptionLocalization":
     {
         "es": "Un pastel hecho con galletas bañadas en café.",
-         // "ko": "",
-         // "de": "",
+        "ko": "커피에 흠뻑 젖은 쿠키를 넣어 만든 케이크.",
+        "de": "Ein Kuchen mit Kaffee durchtränkten Keksen.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "コーヒーを浸したクッキーで作られたケーキ。",
         "pt": "Um bolo feito com biscoitos de café.",
          // "ru": "",
          // "tr": "",

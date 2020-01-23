@@ -6,7 +6,7 @@
     "Type": "Vegetable",
 
     "Seasons": ["summer"],
-    "Phases": [1, 2, 4, 3, 2],
+    "Phases": [2, 3, 4, 3, ],
     "RegrowthPhase": -1,
     "HarvestWithScythe": false,
     "TrellisCrop": false,
@@ -26,8 +26,8 @@
     "SeedNameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "푸른 용설란 씨앗",
+        "de": "Blaue Agaven-Saat",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -40,8 +40,8 @@
     "SeedDescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "여름 작물. 성장하려면 12일이 소요됩니다.",
+        "de": "Pflanze sie im Sommer. Wächst in 12 Tagen heran.",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -49,6 +49,6 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "夏天种这些。需要12天才能成熟",
+          "zh": "夏天播种，12天成熟。",
     }
 }

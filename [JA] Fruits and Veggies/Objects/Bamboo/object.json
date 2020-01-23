@@ -9,8 +9,8 @@
     "NameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "대나무",
+         "de": "Bambus",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -18,13 +18,13 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "竹子",
+          "zh": "竹笋",
     },
     "DescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "죽순을 먹을 수 있습니다. 믿을 수 없을 정도로 빨리 성장합니다.",
+         "de": "Die Sprossen dieser Pflanze sind essbar. Sie wächst unglaublich schnell.",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -32,6 +32,6 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "这种植物的嫩枝可以食用。它长得非常快",
+          "zh": "这种植物的嫩芽是可食用的。它长得非常快。",
     }
 }

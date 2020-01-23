@@ -31,12 +31,12 @@
     "NameLocalization":
     {
         "es": "Limonada",
-         // "ko": "",
-         // "de": "",
+        "ko": "라임 에이드",
+        "de": "Limonade",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ライムエード",
         "pt": "Limonada de lima",
          // "ru": "",
          // "tr": "",
@@ -45,12 +45,12 @@
     "DescriptionLocalization":
     {
         "es": "¡Limón recién exprimido!",
-         // "ko": "",
-         // "de": "",
+        "ko": "갓 짜낸 라임 에이드!",
+        "de": "Frisch gepresste Limonade!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "絞りたてのライムエード！",
         "pt": "Limonada espremida na hora!",
          // "ru": "",
          // "tr": "",

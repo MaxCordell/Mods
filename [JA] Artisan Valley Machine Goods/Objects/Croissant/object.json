@@ -31,29 +31,29 @@
     "NameLocalization":
     {
         "es": "Cruasán",
-         // "ko": "",
+        "ko": "크루아상",
         "de": "Croissant",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "クロワッサン",
          // "pt": "",
          // "ru": "",
          // "tr": "",
-        "zh": "牛角包",
+        "zh": "牛角面包",
     },
     "DescriptionLocalization":
     {
         "es": "Escamoso, mantecoso, cálido.",
-         // "ko": "",
-        "de": "Schuppig, butterig, warm.",
+        "ko": "잘 부서지고, 버터 같고, 따뜻합니다.",
+        "de": "Blättrig, butterig, warm.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "バター風味でサクサクで温かい。",
          // "pt": "",
          // "ru": "",
          // "tr": "",
-        "zh": "片状，黄油状，温暖。",
+        "zh": "一块上覆黄油的温热的面包。",
     }
 }

@@ -26,8 +26,8 @@
     "SeedNameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "땅콩호박 씨앗",
+        "de": "Butternusskürbis-Saat",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -35,13 +35,13 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "葫芦南瓜种子",
+          "zh": "冬南瓜种子",
     },
     "SeedDescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "여름 작물. 성장하려면 10일이 소요되지만, 수확한 후에도 계속 작물이 생산됩니다.",
+        "de": "Planze sie im Sommer. Wächst in 10 Tagen heran und kann danach mehrmals geerntet werden.",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -49,6 +49,6 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "夏天种这些。成熟需要10天，在第一次收获后继续生产",
+          "zh": "夏天播种，10天成熟，在第一次收获后循环生产（虽然叫冬南瓜，但并不在冬季播种）。",
     }
 }

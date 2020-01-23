@@ -30,8 +30,8 @@
     "SeedNameLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "퀴노아 씨앗",
+        "de": "Quinoa-Saat",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -44,8 +44,8 @@
     "SeedDescriptionLocalization":
     {
          // "es": "",
-         // "ko": "",
-         // "de": "",
+        "ko": "여름 작물. 성장하려면 6일이 소요됩니다.",
+        "de": "Pflanze sie im Sommer. Wächst in 6 Tagen heran.",
          // "fr": "",
          // "hu": "",
          // "it": "",
@@ -53,6 +53,6 @@
          // "pt": "",
          // "ru": "",
          // "tr": "",
-          "zh": "夏天种。需要6天才能成熟",
+          "zh": "夏天播种，6天成熟。",
     }
 }

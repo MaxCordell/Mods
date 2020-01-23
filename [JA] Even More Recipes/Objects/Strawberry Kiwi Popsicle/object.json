@@ -37,12 +37,12 @@
     "NameLocalization":
     {
         "es": "Paleta de fresa con kiwi",
-         // "ko": "",
-         // "de": "",
+        "ko": "딸기 키위 팝시클",
+        "de": "Erdbeer-Kiwieis am Stiel",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "イチゴとキウイのアイスバー",
         "pt": "Picolé de Kiwi e Morango",
          // "ru": "",
          // "tr": "",
@@ -51,12 +51,12 @@
     "DescriptionLocalization":
     {
         "es": "Se asemeja a una sandia.",
-         // "ko": "",
-         // "de": "",
+        "ko": "수박 같이 생겼어요.",
+        "de": "Es ähnelt einer Wassermelone.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "スイカに似ている味。",
         "pt": "Assemelha-se a uma melancia.",
          // "ru": "",
          // "tr": "",

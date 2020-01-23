@@ -16,29 +16,29 @@
     "NameLocalization":
     {
         "es": "Kéfir",
-         // "ko": "",
+        "ko": "케피르",
         "de": "Kefir",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ケフィア",
          // "pt": "",
          // "ru": "",
          // "tr": "",
-        "zh": "克非尔酸奶",
+        "zh": "开菲尔酸奶",
     },
     "DescriptionLocalization":
     {
         "es": "Un cremoso yogur elaborado con leche de cabra o de oveja, con un poco de levadura kéfir.",
-         // "ko": "",
+        "ko": "양이나 염소젖을 발효시켜 만든 케피르. 크리미합니다.",
         "de": "Hergestellt aus Schafs- oder Ziegenmilch und der Kefirhefe. Es ist cremig.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ヒツジまたはヤギのミルクにケフィア酵母を入れて作られる。クリーミー。",
          // "pt": "",
          // "ru": "",
          // "tr": "",
-        "zh": "由羊奶制成，还有一种克菲尔酵母。这种酸奶有奶油的口感。",
+        "zh": "用羊奶或山羊奶混入开菲尔酵母制成。这种酸奶有奶油的口感。",
     }
 }

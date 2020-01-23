@@ -34,12 +34,12 @@
     "NameLocalization":
     {
         "es": "Queque de chocolate con fresas",
-         // "ko": "",
-         // "de": "",
+        "ko": "초콜릿 딸기 케이크",
+        "de": "Schokoladenerdbeerkuchen",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "チョコレートイチゴケーキ",
         "pt": "Bolo de morango com chocolate",
          // "ru": "",
          // "tr": "",
@@ -48,12 +48,12 @@
     "DescriptionLocalization":
     {
         "es": "¡Sabroso!",
-         // "ko": "",
-         // "de": "",
+        "ko": "맛있어요!",
+        "de": "Lecker!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "うまい！",
         "pt": "Delicioso!",
          // "ru": "",
          // "tr": "",

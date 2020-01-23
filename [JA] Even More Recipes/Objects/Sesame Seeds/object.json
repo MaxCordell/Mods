@@ -17,12 +17,12 @@
     "NameLocalization":
     {
         "es": "Semillas de ajonjolí",
-         // "ko": "",
-         // "de": "",
+        "ko": "참깨",
+        "de": "Sesamsamen",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ゴマ",
         "pt": "Sementes de Sesamo",
          // "ru": "",
          // "tr": "",
@@ -31,12 +31,12 @@
     "DescriptionLocalization":
     {
         "es": "No tienen mucho sabor.",
-         // "ko": "",
-         // "de": "",
+        "ko": "맛이 별로 없어요.",
+        "de": "Sie schmecken nach nicht viel.",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "あまり味はない。",
         "pt": "Eles não têm muito sabor.",
          // "ru": "",
          // "tr": "",

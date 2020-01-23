@@ -52,8 +52,8 @@
     "NameLocalization":
     {
         "es": "Cóctel Barracuda",
-        // "ko": "",
-        // "de": "",
+        "ko": "바라쿠다 칵테일",
+        "de": "Barracuda-Cocktail",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -66,8 +66,8 @@
     "DescriptionLocalization":
     {
         "es": "No, esto no es una bebida a pescado.",
-        // "ko": "",
-        // "de": "",
+        "ko": "비린 음료가 아니에요.",
+        "de": "Nein, das ist kein Fischhaltiges Getränk",
         // "fr": "",
         // "hu": "",
         // "it": "",
@@ -75,6 +75,6 @@
         // "pt": "",
         // "ru": "",
         // "tr": "",
-        "zh": "梭子鱼。不，这不是一种腥味的饮料。",
+        "zh": "梭子鱼。不，这不是一种鱼腥味的饮料。",
     }
 }

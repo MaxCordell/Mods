@@ -43,12 +43,12 @@
     "NameLocalization":
     {
         "es": "Galleta de cerdo",
-         // "ko": "",
-         // "de": "",
+        "ko": "돼지 쿠키",
+        "de": "Schweinchenkeks",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ブタクッキー",
         "pt": "Biscoito de porquinho",
          // "ru": "",
          // "tr": "",
@@ -57,12 +57,12 @@
     "DescriptionLocalization":
     {
         "es": "¡Una linda galleta con forma de cerdo!",
-         // "ko": "",
-         // "de": "",
+        "ko": "돼지 모양의 귀여운 쿠키!",
+        "de": "Ein süßer Keks in Form eines Schweinchens!",
          // "fr": "",
          // "hu": "",
          // "it": "",
-         // "ja": "",
+        "ja": "ブタをかたどったかわいいクッキー！",
         "pt": "Um biscoito fofo em forma de porco!",
          // "ru": "",
          // "tr": "",
