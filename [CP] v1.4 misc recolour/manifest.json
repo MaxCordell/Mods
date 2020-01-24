@@ -1,0 +1,12 @@
+{
+   "Name": "1.4 misc recolour",
+   "Author": "DustBeauty",
+   "Version": "1.1.0",
+   "Description": "1.4 misc recolour",
+   "UniqueID": "DustBeauty.1.4miscrecolour",
+   "UpdateKeys": ["Nexus:5211"],
+   "MinimumApiVersion": "",
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   },
+}

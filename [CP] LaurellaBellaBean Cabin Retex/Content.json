@@ -1,0 +1,20 @@
+{
+  "Format": "1.0.0",
+  "Changes": [
+       {
+          "Action": "Load",
+          "Target": "buildings/Log Cabin",
+          "FromFile": "Assets/Buildings/Log Cabin.png",
+       },
+	   {
+          "Action": "Load",
+          "Target": "buildings/Plank Cabin",
+          "FromFile": "Assets/Buildings/Plank Cabin.png",
+       },
+	   {
+          "Action": "Load",
+          "Target": "buildings/Stone Cabin",
+          "FromFile": "Assets/Buildings/Stone Cabin.png",
+       },   
+    ]
+}
