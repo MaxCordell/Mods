@@ -1,0 +1,12 @@
+{
+   "Name": "New paths  by neo and nags",
+   "Author": "neocores and nuggy and others",
+   "Version": "1.0.0",
+   "Description": "New flooring textures, with or without void stars path",
+   "UniqueID": "neonag.Paths",
+   "MinimumApiVersion": "2.10.0",
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher",
+      "MinimumVersion": "1.6.1"
+   }
+}
