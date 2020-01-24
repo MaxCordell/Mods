@@ -1,0 +1,10 @@
+{
+   "Name": "BushReset",
+   "Author": "Entoarox",
+   "Version": "1.0.0",
+   "Description": "Add the world_bushreset command of Entoarox Framwork into the game",
+   "UniqueID": "Entoarox.BushReset",
+   "EntryDll": "EvenMoreSecretWoods.dll",
+   "MinimumApiVersion": "2.0",
+   "UpdateKeys": []
+}
