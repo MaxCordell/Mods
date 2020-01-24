@@ -1,0 +1,12 @@
+{
+   "Name": "EvenMoreExpandedWoods",
+   "Author": "Oak",
+   "Version": "1.0.0",
+   "Description": "Adds a new secret area in the secret woods",
+   "UniqueID": "Oak.EvenMoreExpandedWoods",
+   "MinimumApiVersion": "2.5.2",
+   "UpdateKeys": [ "Nexus:2364" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}
