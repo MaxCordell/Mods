@@ -1,0 +1,13 @@
+{
+  "Name": "Stardew Enhanced - The Town",
+  "Author": "XCube",
+  "Version": "2.0.3",
+  "Description": "Town Improvements obv",
+  "UniqueID": "SEnhanced.Town",
+  "MinimumApiVersion": "2.11.0",
+  "UpdateKeys": [ "Nexus:4860" ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+    "MinimumVersion": "1.10.0" // optional
+  }
+}

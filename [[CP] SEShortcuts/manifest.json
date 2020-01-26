@@ -1,0 +1,13 @@
+{
+  "Name": "Stardew Enhanced - Shortcuts",
+  "Author": "XCube",
+  "Version": "2.2.0",
+  "Description": "Adds various shortcuts around Stardew Valley",
+  "UniqueID": "SEnhanced.Shortcuts",
+  "MinimumApiVersion": "2.11.0",
+  "UpdateKeys": [ "Nexus:4833" ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+    "MinimumVersion": "1.10.0" // optional
+  }
+}

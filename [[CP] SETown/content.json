@@ -1,0 +1,287 @@
+{
+   "Format": "1.10.0",
+   //CONFIG
+   "ConfigSchema": {
+		"Park": {
+			"AllowValues": "True, False",
+			"Default": "True"
+		},
+		"Garden": {
+			"AllowValues": "True, False",
+			"Default": "True"
+		},
+		"TownSign": {
+			"AllowValues": "True, False",
+			"Default": "True"
+		},
+		"Pierres": {
+			"AllowValues": "True, False",
+			"Default": "True"
+		},
+		"Bridges": {
+			"AllowValues": "True, False",
+			"Default": "True"
+		},
+		"Cementery": {
+			"AllowValues": "True, False",
+			"Default": "True"
+		},
+		"Evelyn": {
+			"AllowValues": "True, False",
+			"Default": "True"
+		},
+		"Stardrop": {
+			"AllowValues": "True, False",
+			"Default": "True"
+		},
+		"Jodi": {
+			"AllowValues": "True, False",
+			"Default": "True"
+		},
+		"Emily": {
+			"AllowValues": "True, False",
+			"Default": "True"
+		},
+		"PelicanStatue": {
+			"AllowValues": "True, False",
+			"Default": "True"
+		},
+		"BlacksmithGarden": {
+			"AllowValues": "True, False",
+			"Default": "True"
+		},
+   },
+   "Changes": [
+   //STRINGS
+	{
+		"Action": "EditData",
+		"Target": "Strings/StringsFromMaps",
+		"Entries": {
+			"SETown.1": "As you read the name on the tombstone, a cold shiver runs down your spine... Ominous.",
+		},
+	},
+	{
+		"Action": "EditData",
+		"Target": "Data/Events/Town",
+		"Entries": {
+		"502969/w sunny/f Linus 50/j 7/t 2000 2400": "nightTime/-1000 -1000/farmer 72 64 1 Linus 50 58 2 George -100 -100 2 Gus -100 -100 2/skippable/specificTemporarySprite linusLights/pause 800/viewport 55 64 true/pause 1000/move Linus 0 5 1 false/move Linus 1 0 1 false/pause 1000/animate Linus false true 500 20 21/pause 500/playSound trashcanlid/pause 1000/playSound dirtyHit/pause 1000/playSound slimeHit/pause 1000/playSound dirtyHit/pause 1600/warp George 57 64/playSound doorClose/pause 600/stopAnimation Linus/showFrame Linus 22/jump Linus/shake Linus 1000/pause 1000/speed Linus 4/move Linus 0 -1 1/speed Linus 4/move Linus 2 0 3/faceDirection George 3/pause 500/emote George 12/move farmer -10 0 3 true/speak George \"Grr... sounds like those raccoons are back again. Filthy varmints...\"/proceedPosition farmer 62 64/faceDirection George 1/pause 500/speak George \"Ah, you turned up at the right moment, son.^Ah, you turned up at the right moment, miss.#$b#Could you do an old man a favor? Could you go around the corner and scare off those raccoons for me? They've been causin' a real mess.#$b#Thanks. Make sure you give 'em a good scare so they never come back.\"/faceDirection George 0/playSound doorClose/warp George -100 -100/pause 500/move farmer 0 1 3 false/move farmer -4 0 0 false/move farmer 0 -1 3 false/move farmer -5 0 0 false/faceDirection Linus 2/faceDirection farmer 0/playMusic echos/pause 1000/showFrame Linus 19/pause 600/emote Linus 28/speak Linus \"It was me... I'm sorry.$s\"/pause 500/showFrame Linus 0/pause 800/move Linus -1 0 2/pause 800/showFrame Linus 19/pause 800/speak Linus \"I find a lot of hot, fresh food in these cans... stuff that will go to waste if I don't take it.\"/pause 500/move Linus -1 0 2/move Linus 0 2 1/faceDirection farmer 3/speak Linus \"$y 'Do you think there's something wrong with what I'm doing?_Yes, it's disgusting._Disgusting to you, maybe. To me, it's a way of life. And I haven't gotten sick yet. I only eat things that look fresh._No. It's a shame for food to go to waste._Thanks, @. I knew you were an open-minded person. I feel good about what I'm doing. I'm not harming anyone.$h_Yes, it's illegal. That's George's private property._I don't believe in 'private property'. Besides, what do you want me to do? I need this food to survive. Have a heart.$s_No, but you should get a job and stop leeching off others._*Sigh*... Not everyone's cut out for this world, @. You don't know what it's like to be me. I'm not harming anyone, I just want to live life in my own way. Is that so wrong?'\"/playMusic nightTime/pause 800/faceDirection Linus 3/pause 800/faceDirection Linus 1/speak Linus \"You can go on home. I promise I won't rummage in George's can anymore.#$b#You can tell him you scared off the raccoons for good.\"/advancedMove Linus false -3 0 0 6/viewport move -1 1 5000/pause 500/move farmer -8 0 3/move farmer 0 1 3/move farmer -1 0 3/faceDirection Linus 3/pause 600/animate Linus true true 500 20 21/pause 1000/playSound slimeHit/pause 1000/playSound slimeHit/pause 800/warp Gus 45 71/playSound doorClose/advancedMove Gus false 0 1 3 0 0 -1/stopAnimation Linus/showFrame Linus 22/jump Linus/pause 1000/advancedMove Linus false 0 -2/proceedPosition Gus 48 71/playMusic none/speak Gus \"Wait.$u\"/faceDirection Gus 0/shake Linus 2000/pause 1000/faceDirection Linus 2/pause 800/showFrame Linus 19/move Gus 0 -2 0 false/speak Gus \"I know what you were doing, Linus.$3\"/pause 500/emote Gus 40/pause 500/speak Gus \"If you need food... just ask. I don't want anyone in Pelican Town to go hungry.\"/pause 1000/showFrame Linus 0/pause 1000/speak Gus \"Here. I've got a basket of zuchinni fritters for you. Just make sure you dip them in my spicy marinara!$h#$b#Go on... take it.\"/pause 1000/showFrame Linus 19/pause 600/globalFade/viewport -3000 -3000/end",
+		},	
+	},
+	//PARK
+	{
+        "Target": "Maps/Town",
+        "Action": "EditMap",
+        "FromFile": "assets/TownSquare.tbin",
+        "FromArea": { "X": 2, "Y": 55, "Width": 14, "Height": 21 },
+        "ToArea": { "X": 2, "Y": 55, "Width": 14, "Height": 21 },
+        "When": {
+				"Park": "True"
+		},
+    },
+	{
+        "Target": "Maps/Town",
+        "Action": "EditMap",
+        "FromFile": "assets/TownSquare.tbin",
+        "FromArea": { "X": 16, "Y": 69, "Width": 6, "Height": 7 },
+        "ToArea": { "X": 16, "Y": 69, "Width": 6, "Height": 7 },
+        "When": {
+				"Park": "True"
+		},
+    },
+	//TOWNSQUARE
+	{
+        "Target": "Maps/Town",
+        "Action": "EditMap",
+        "FromFile": "assets/TownSquare.tbin",
+        "FromArea": { "X": 22, "Y": 58, "Width": 17, "Height": 17 },
+        "ToArea": { "X": 22, "Y": 58, "Width": 17, "Height": 17 },
+    },
+	{
+        "Target": "Maps/Town",
+        "Action": "EditMap",
+        "FromFile": "assets/TownSquare.tbin",
+        "FromArea": { "X": 39, "Y": 58, "Width": 12, "Height": 4 },
+        "ToArea": { "X": 39, "Y": 58, "Width": 12, "Height": 4 },
+    },
+	{
+        "Target": "Maps/Town",
+        "Action": "EditMap",
+        "FromFile": "assets/TownSquare.tbin",
+        "FromArea": { "X": 39, "Y": 62, "Width": 10, "Height": 5 },
+        "ToArea": { "X": 39, "Y": 62, "Width": 10, "Height": 5 },
+    },
+	//GARDEN
+	{
+        "Target": "Maps/Town",
+        "Action": "EditMap",
+        "FromFile": "assets/TownSquare.tbin",
+        "FromArea": { "X": 16, "Y": 56, "Width": 5, "Height": 10 },
+        "ToArea": { "X": 16, "Y": 56, "Width": 5, "Height": 10 },
+        "When": {
+				"Garden": "True"
+		},
+    },
+	{
+        "Target": "Maps/Town",
+        "Action": "EditMap",
+        "FromFile": "assets/TownSquare.tbin",
+        "FromArea": { "X": 21, "Y": 56, "Width": 3, "Height": 5 },
+        "ToArea": { "X": 21, "Y": 56, "Width": 3, "Height": 5 },
+        "When": {
+				"Garden": "True"
+		},
+    },
+	//TOWNSIGN
+	{
+        "Target": "Maps/Town",
+        "Action": "EditMap",
+        "FromFile": "assets/TownSquare.tbin",
+        "FromArea": { "X": 15, "Y": 51, "Width": 3, "Height": 2 },
+        "ToArea": { "X": 15, "Y": 51, "Width": 3, "Height": 2 },
+        "When": {
+				"TownSign": "True"
+		},
+    },
+	//GENERAL
+	{
+        "Target": "Maps/Town",
+        "Action": "EditMap",
+        "FromFile": "assets/TownHouses.tbin",
+        "FromArea": { "X": 29, "Y": 48, "Width": 4, "Height": 8 },
+        "ToArea": { "X": 29, "Y": 48, "Width": 4, "Height": 8 },
+    },
+	{
+        "Target": "Maps/Town",
+        "Action": "EditMap",
+        "FromFile": "assets/TownHouses.tbin",
+        "FromArea": { "X": 32, "Y": 75, "Width": 5, "Height": 5 },
+        "ToArea": { "X": 32, "Y": 75, "Width": 5, "Height": 5 },
+    },
+	{
+        "Target": "Maps/Town",
+        "Action": "EditMap",
+        "FromFile": "assets/TownHouses.tbin",
+        "FromArea": { "X": 30, "Y": 82, "Width": 10, "Height": 9 },
+        "ToArea": { "X": 30, "Y": 82, "Width": 10, "Height": 9 },
+    },
+	{
+        "Target": "Maps/Town",
+        "Action": "EditMap",
+        "FromFile": "assets/TownHouses.tbin",
+        "FromArea": { "X": 89, "Y": 60, "Width": 18, "Height": 16 },
+        "ToArea": { "X": 89, "Y": 60, "Width": 18, "Height": 16 },
+        "When": {
+				"BlacksmithGarden": "True"
+		},
+    },
+	//PELICAN STATUE
+	{
+        "Target": "Maps/Town",
+        "Action": "EditMap",
+        "FromFile": "assets/TownHouses.tbin",
+        "FromArea": { "X": 28, "Y": 57, "Width": 4, "Height": 4 },
+        "ToArea": { "X": 28, "Y": 57, "Width": 4, "Height": 4 },
+        "When": {
+				"PelicanStatue": "True"
+		},
+    },
+	//PIERRES
+	{
+        "Target": "Maps/Town",
+        "Action": "EditMap",
+        "FromFile": "assets/TownHouses.tbin",
+        "FromArea": { "X": 38, "Y": 54, "Width": 8, "Height": 8 },
+        "ToArea": { "X": 38, "Y": 54, "Width": 8, "Height": 8 },
+        "When": {
+				"Pierres": "True"
+		},
+    },
+	//EVELYN
+	{
+        "Target": "Maps/Town",
+        "Action": "EditMap",
+        "FromFile": "assets/TownHouses.tbin",
+        "FromArea": { "X": 51, "Y": 55, "Width": 13, "Height": 10 },
+        "ToArea": { "X": 51, "Y": 55, "Width": 13, "Height": 10 },
+        "When": {
+				"Evelyn": "True"
+		},
+    },
+	//CEMENTERY
+	{
+        "Target": "Maps/Town",
+        "Action": "EditMap",
+        "FromFile": "assets/TownHouses.tbin",
+        "FromArea": { "X": 40, "Y": 83, "Width": 15, "Height": 13 },
+        "ToArea": { "X": 40, "Y": 83, "Width": 15, "Height": 13 },
+        "When": {
+				"Cementery": "True"
+		},
+    },
+	{
+        "Target": "Maps/Town",
+        "Action": "EditMap",
+        "FromFile": "assets/TownHouses.tbin",
+        "FromArea": { "X": 43, "Y": 81, "Width": 4, "Height": 2 },
+        "ToArea": { "X": 43, "Y": 81, "Width": 4, "Height": 2 },
+        "When": {
+				"Cementery": "True"
+		},
+    },
+	//EMILY
+	{
+        "Target": "Maps/Town",
+        "Action": "EditMap",
+        "FromFile": "assets/TownHouses.tbin",
+        "FromArea": { "X": 18, "Y": 76, "Width": 9, "Height": 14 },
+        "ToArea": { "X": 18, "Y": 76, "Width": 9, "Height": 14 },
+        "When": {
+				"Emily": "True"
+		},
+    },
+	//JODI
+	{
+        "Target": "Maps/Town",
+        "Action": "EditMap",
+        "FromFile": "assets/TownHouses.tbin",
+        "FromArea": { "X": 5, "Y": 76, "Width": 13, "Height": 13 },
+        "ToArea": { "X": 5, "Y": 76, "Width": 13, "Height": 13 },
+        "When": {
+				"Jodi": "True"
+		},
+    },
+	//STARDROP
+	{
+        "Target": "Maps/Town",
+        "Action": "EditMap",
+        "FromFile": "assets/TownHouses.tbin",
+        "FromArea": { "X": 36, "Y": 64, "Width": 15, "Height": 12 },
+        "ToArea": { "X": 36, "Y": 64, "Width": 15, "Height": 12 },
+        "When": {
+				"Stardrop": "True"
+		},
+    },
+	//BRIDGES
+	{
+        "Target": "Maps/Town",
+        "Action": "EditMap",
+        "FromFile": "assets/TownHouses.tbin",
+        "FromArea": { "X": 71, "Y": 50, "Width": 6, "Height": 5 },
+        "ToArea": { "X": 71, "Y": 50, "Width": 6, "Height": 5 },
+        "When": {
+				"Bridges": "True"
+		},
+    },
+	{
+        "Target": "Maps/Town",
+        "Action": "EditMap",
+        "FromFile": "assets/TownHouses.tbin",
+        "FromArea": { "X": 76, "Y": 91, "Width": 6, "Height": 5 },
+        "ToArea": { "X": 76, "Y": 91, "Width": 6, "Height": 5 },
+        "When": {
+				"Bridges": "True"
+		},
+    },
+		
+   ]
+}

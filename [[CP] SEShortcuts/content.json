@@ -1,0 +1,297 @@
+{
+   "Format": "1.10.0",
+   //CONFIG
+   "ConfigSchema": {
+		"BeachTown": {
+			"AllowValues": "True, False",
+			"Default": "True"
+		},
+		"BeachForest": {
+			"AllowValues": "True, False",
+			"Default": "True"
+		},
+		"TownMountainPlayground": {
+			"AllowValues": "True, False",
+			"Default": "True"
+		},
+		"TownMountainJoja": {
+			"AllowValues": "True, False",
+			"Default": "True"
+		},
+		"MountainIsland": {
+			"AllowValues": "True, False",
+			"Default": "True"
+		},
+		"Backwoods": {
+			"AllowValues": "True, False",
+			"Default": "True"
+		},
+		"TownStairs": {
+			"AllowValues": "True, False",
+			"Default": "True"
+		},
+   },
+   "Changes": [
+	 //STRINGS
+	{
+		"Action": "EditData",
+		"Target": "Strings/StringsFromMaps",
+		"Entries": {
+			"SEShortcuts.1": "To The Mountain >",
+			"SEShortcuts.2": "To The Beach >",
+			"SEShortcuts.3": "< To Cindersap Forest",
+			"SEShortcuts.4": "To Pelican Town ^",
+		},
+	},
+   //MOUNTAIN-TOWN
+      {
+         "Action": "EditMap",
+         "Target": "Maps/Town",
+         "FromFile": "assets/TownShortcuts.tbin",
+         "FromArea": { "X": 13, "Y": 0, "Width": 15, "Height": 10 },
+         "ToArea": { "X": 13, "Y": 0, "Width": 15, "Height": 10 },
+		 "When": {
+			"TownMountainPlayground": "True"
+		 },
+      },
+      {
+         "Action": "EditMap",
+         "Target": "Maps/Mountain",
+         "FromFile": "assets/MountainShortcuts.tbin",
+         "FromArea": { "X": 0, "Y": 25, "Width": 4, "Height": 10 },
+         "ToArea": { "X": 0, "Y": 25, "Width": 4, "Height": 10 },
+		 "When": {
+			"TownMountainPlayground": "True"
+		 },
+      },
+   //MOUNTAIN-TOWN II
+      {
+         "Action": "EditMap",
+         "Target": "Maps/Town",
+         "FromFile": "assets/TownShortcuts.tbin",
+         "FromArea": { "X": 99, "Y": 0, "Width": 21, "Height": 38 },
+         "ToArea": { "X": 99, "Y": 0, "Width": 21, "Height": 38 },
+		 "When": {
+			"TownMountainJoja": "True"
+		 },
+      },
+      {
+         "Action": "EditMap",
+         "Target": "Maps/Mountain",
+         "FromFile": "assets/MountainShortcuts.tbin",
+         "FromArea": { "X": 86, "Y": 33, "Width": 7, "Height": 8 },
+         "ToArea": { "X": 86, "Y": 33, "Width": 7, "Height": 8 },
+		 "When": {
+			"TownMountainJoja": "True"
+		 },
+      },
+	//MountainIsland
+	  {
+         "Action": "EditMap",
+         "Target": "Maps/Mountain",
+         "FromFile": "assets/MountainShortcuts.tbin",
+         "FromArea": { "X": 68, "Y": 15, "Width": 1, "Height": 3 },
+         "ToArea": { "X": 68, "Y": 15, "Width": 1, "Height": 3 },
+		 "When": {
+			"MountainIsland": "True"
+		 },
+      },
+   //BeachTown
+      {
+         "Action": "EditMap",
+         "Target": "Maps/Town",
+         "FromFile": "assets/TownShortcuts.tbin",
+         "FromArea": { "X": 95, "Y": 94, "Width": 16, "Height": 16 },
+         "ToArea": { "X": 95, "Y": 94, "Width": 16, "Height": 16 },
+		 "When": {
+			"BeachTown": "True"
+		 },
+      },
+      {
+         "Action": "EditMap",
+         "Target": "Maps/Beach",
+         "FromFile": "assets/BeachShortcuts.tbin",
+         "FromArea": { "X": 67, "Y": 0, "Width": 5, "Height": 7 },
+         "ToArea": { "X": 67, "Y": 0, "Width": 5, "Height": 7 },
+		 "When": {
+			"BeachTown": "True"
+		 },
+      },
+	//BeachForest
+	{
+         "Action": "EditMap",
+         "Target": "Maps/Forest",
+         "FromFile": "assets/ForestShortcuts.tbin",
+         "FromArea": { "X": 109, "Y": 94, "Width": 11, "Height": 18 },
+         "ToArea": { "X": 109, "Y": 94, "Width": 11, "Height": 18 },
+		 "When": {
+			"BeachForest": "True"
+		 },
+      },
+      {
+         "Action": "EditMap",
+         "Target": "Maps/Beach",
+         "FromFile": "assets/BeachShortcuts.tbin",
+         "FromArea": { "X": 0, "Y": 3, "Width": 8, "Height": 6 },
+         "ToArea": { "X": 0, "Y": 3, "Width": 8, "Height": 6 },
+		 "When": {
+			"BeachForest": "True"
+		 },
+      },
+	//Backwoods
+	  {
+         "Action": "EditMap",
+         "Target": "Maps/Backwoods",
+         "FromFile": "assets/BackwoodsShortcuts.tbin",
+         "FromArea": { "X": 27, "Y": 14, "Width": 7, "Height": 14 },
+         "ToArea": { "X": 27, "Y": 14, "Width": 7, "Height": 14 },
+		 "When": {
+			"Backwoods": "True"
+		 },
+      },
+	//Town
+	{
+         "Action": "EditMap",
+         "Target": "Maps/Town",
+         "FromFile": "assets/TownShortcuts.tbin",
+         "FromArea": { "X": 84, "Y": 0, "Width": 8, "Height": 11 },
+         "ToArea": { "X": 84, "Y": 0, "Width": 8, "Height": 11 },
+		 "When": {
+			"TownStairs": "True"
+		 },
+      },
+	  
+	  
+	 //FESTIVALS TOWN/BEACH
+	{
+        "Action": "EditMap",
+        "Target": "Maps/Forest",
+        "FromFile": "assets/ForestShortcutsF.tbin",
+        "FromArea": { "X": 114, "Y": 104, "Width": 3, "Height": 2 },
+        "ToArea": { "X": 114, "Y": 104, "Width": 3, "Height": 2 },
+        "When": {
+                "DayEvent": "wedding, dance of the moonlight jellies, egg festival, feast od the winter star, luau, stardew valley fair, spirit's eve, ",
+				"BeachForest": "True"
+		},
+    },
+	{
+        "Action": "EditMap",
+        "Target": "Maps/Forest",
+        "FromFile": "assets/ForestShortcutsF.tbin",
+        "FromArea": { "X": 114, "Y": 104, "Width": 3, "Height": 2 },
+        "ToArea": { "X": 114, "Y": 104, "Width": 3, "Height": 2 },
+        "When": {
+            "Season": "Winter",
+			"Day": "15",
+			"BeachForest": "True"
+		},
+    },
+	{
+        "Action": "EditMap",
+        "Target": "Maps/Forest",
+        "FromFile": "assets/ForestShortcutsF.tbin",
+        "FromArea": { "X": 114, "Y": 104, "Width": 3, "Height": 2 },
+        "ToArea": { "X": 114, "Y": 104, "Width": 3, "Height": 2 },
+        "When": {
+            "Season": "Winter",
+			"Day": "16",
+			"BeachForest": "True"
+		},
+    },
+	{
+        "Action": "EditMap",
+        "Target": "Maps/Forest",
+        "FromFile": "assets/ForestShortcutsF.tbin",
+        "FromArea": { "X": 114, "Y": 104, "Width": 3, "Height": 2 },
+        "ToArea": { "X": 114, "Y": 104, "Width": 3, "Height": 2 },
+        "When": {
+            "Season": "Winter",
+			"Day": "17",
+			"BeachForest": "True"
+		},
+    },
+	//FESTIVALS BEACH
+	{
+        "Action": "EditMap",
+        "Target": "Maps/Town",
+        "FromFile": "assets/TownShortcutsF.tbin",
+        "FromArea": { "X": 102, "Y": 103, "Width": 4, "Height": 2 },
+        "ToArea": { "X": 102, "Y": 103, "Width": 4, "Height": 2 },
+        "When": {
+                "DayEvent": "dance of the moonlight jellies, luau, ",
+				"BeachTown": "True"
+        },
+    },
+	{
+        "Action": "EditMap",
+        "Target": "Maps/Town",
+        "FromFile": "assets/TownShortcutsF.tbin",
+        "FromArea": { "X": 102, "Y": 103, "Width": 4, "Height": 2 },
+        "ToArea": { "X": 102, "Y": 103, "Width": 4, "Height": 2 },
+        "When": {
+            "Season": "Winter",
+			"Day": "15",
+			"BeachTown": "True"
+        }
+    },
+	{
+        "Action": "EditMap",
+        "Target": "Maps/Town",
+        "FromFile": "assets/TownShortcutsF.tbin",
+        "FromArea": { "X": 102, "Y": 103, "Width": 4, "Height": 2 },
+        "ToArea": { "X": 102, "Y": 103, "Width": 4, "Height": 2 },
+        "When": {
+            "Season": "Winter",
+			"Day": "16",
+			"BeachTown": "True"
+        }
+    },
+	{
+        "Action": "EditMap",
+        "Target": "Maps/Town",
+        "FromFile": "assets/TownShortcutsF.tbin",
+        "FromArea": { "X": 102, "Y": 103, "Width": 4, "Height": 2 },
+        "ToArea": { "X": 102, "Y": 103, "Width": 4, "Height": 2 },
+        "When": {
+            "Season": "Winter",
+			"Day": "17",
+			"BeachTown": "True"
+        }
+    },
+	//FESTIVALS TOWN
+	{
+        "Action": "EditMap",
+        "Target": "Maps/Mountain",
+        "FromFile": "assets/MountainShortcutsF.tbin",
+        "FromArea": { "X": 3, "Y": 29, "Width": 2, "Height": 4 },
+        "ToArea": { "X": 3, "Y": 29, "Width": 2, "Height": 4 },
+        "When": {
+                "DayEvent": "wedding, egg festival, feast od the winter star, stardew valley fair, spirit's eve, ",
+				"TownMountainPlayground": "True"
+		},
+    },
+	{
+        "Action": "EditMap",
+        "Target": "Maps/Mountain",
+        "FromFile": "assets/MountainShortcutsF.tbin",
+        "FromArea": { "X": 87, "Y": 37, "Width": 5, "Height": 2 },
+        "ToArea": { "X": 87, "Y": 37, "Width": 5, "Height": 2 },
+        "When": {
+                "DayEvent": "wedding, egg festival, feast od the winter star, stardew valley fair, spirit's eve, ",
+				"TownMountainJoja": "True"
+		},
+    },
+	//Festivals FOREST
+	{
+        "Action": "EditMap",
+        "Target": "Maps/Beach",
+        "FromFile": "assets/BeachShortcutsF.tbin",
+        "FromArea": { "X": 9, "Y": 5, "Width": 1, "Height": 5 },
+        "ToArea": { "X": 9, "Y": 5, "Width": 1, "Height": 5 },
+        "When": {
+                "DayEvent": "festival of ice, ",
+				"BeachForest": "True"
+		},
+    },
+   ]
+}
