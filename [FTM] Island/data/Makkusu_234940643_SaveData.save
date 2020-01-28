@@ -6,21 +6,10 @@
     {
       "MapName": "Island",
       "Name": "Red Dragon Fruit",
-      "Tile": "19, 18",
-      "Type": "Forage",
-      "ID": 2683,
-      "DaysUntilExpire": 1,
-      "SpawnTime": 600,
-      "ConfigItem": null,
-      "MonType": null
-    },
-    {
-      "MapName": "Island",
-      "Name": "Red Dragon Fruit",
       "Tile": "11, 16",
       "Type": "Forage",
       "ID": 2683,
-      "DaysUntilExpire": 7,
+      "DaysUntilExpire": 3,
       "SpawnTime": 600,
       "ConfigItem": null,
       "MonType": null
@@ -31,7 +20,7 @@
       "Tile": "18, 10",
       "Type": "Forage",
       "ID": 2683,
-      "DaysUntilExpire": 8,
+      "DaysUntilExpire": 4,
       "SpawnTime": 600,
       "ConfigItem": null,
       "MonType": null
@@ -42,7 +31,7 @@
       "Tile": "32, 14",
       "Type": "Forage",
       "ID": 2683,
-      "DaysUntilExpire": 9,
+      "DaysUntilExpire": 5,
       "SpawnTime": 600,
       "ConfigItem": null,
       "MonType": null
@@ -53,7 +42,7 @@
       "Tile": "19, 13",
       "Type": "Forage",
       "ID": 2683,
-      "DaysUntilExpire": 10,
+      "DaysUntilExpire": 6,
       "SpawnTime": 600,
       "ConfigItem": null,
       "MonType": null
@@ -64,7 +53,40 @@
       "Tile": "13, 27",
       "Type": "Forage",
       "ID": 392,
+      "DaysUntilExpire": 8,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Island",
+      "Name": null,
+      "Tile": "29, 12",
+      "Type": "Forage",
+      "ID": 392,
+      "DaysUntilExpire": 10,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Island",
+      "Name": null,
+      "Tile": "6, 23",
+      "Type": "Forage",
+      "ID": 392,
       "DaysUntilExpire": 12,
+      "SpawnTime": 600,
+      "ConfigItem": null,
+      "MonType": null
+    },
+    {
+      "MapName": "Island",
+      "Name": null,
+      "Tile": "9, 18",
+      "Type": "Forage",
+      "ID": 392,
+      "DaysUntilExpire": 13,
       "SpawnTime": 600,
       "ConfigItem": null,
       "MonType": null
